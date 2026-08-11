@@ -1,6 +1,6 @@
-**Atividade “É, Não é, Faz, Não faz”**
+#**Atividade “É, Não é, Faz, Não faz”**
 
-**Seção É:**   
+#**Seção É:**   
 O que o produto é, ou seja, sua essência, natureza e posicionamento   
 Perguntas norteadoras:   
 **• Qual é a categoria ou tipo de produto?**   
@@ -12,7 +12,7 @@ Respostas:
 • É uma plataforma com foco na redução da toxicidade no ambiente de jogos.  
 • É uma plataforma de conexão entre jogadores de e-sports/games online.
 
-**Seção Não É:**   
+#**Seção Não É:**   
 O que o produto não é, ajudando a evitar interpretações erradas.   
 Perguntas norteadoras:   
 **• Quais expectativas erradas podem surgir sobre ele?**  
@@ -24,7 +24,7 @@ Respostas:
 • Não deve ser confundido com um aplicativo de relacionamento/namoro.  
 • Não é uma plataforma de transmissão, loja de itens de jogo e um fórum aberto de discussão sem moderação de conduta.
 
-**Seção Faz:**   
+#**Seção Faz:**   
 O que o produto faz, suas funcionalidades principais e benefícios.   
 Perguntas norteadoras:   
 **• Quais são os resultados concretos que entrega ao usuário?**   
@@ -36,12 +36,13 @@ Respostas:
 • Permite o cadastro com perfil de jogador, com filtros de elo, jogos e horários.  
 • Diminui drasticamente a exposição à toxicidade, comportamentos agressivos e abandonos de partida, visto que o usuário buscará por outros jogadores semelhantes a ele.
 
-**Seção Não Faz:**   
+#**Seção Não Faz:**   
 O que o produto não faz, delimitando fronteiras de escopo.   
 Perguntas norteadoras:   
 **• Que funcionalidades ou responsabilidades não devem estar no produto?**   
 **• Que problemas ele não pretende resolver?**   
-**• Quais áreas devem ficar fora do MVP?**   
+**• Quais áreas devem ficar fora do MVP?** 
+
 Respostas:  
 • Não realiza streaming de partidas.  
 • Não resolve a toxicidade dentro do servidor do próprio jogo.  
