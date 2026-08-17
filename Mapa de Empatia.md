@@ -1,7 +1,6 @@
 **MAPA DE EMPATIA**    
 PROJETO APLIC. DESENV. DE SOFTWARE
 
-![][image1]
 
 **Experiência de um JOGADOR**
 
