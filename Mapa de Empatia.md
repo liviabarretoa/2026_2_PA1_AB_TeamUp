@@ -86,7 +86,7 @@ PROJETO APLIC. DESENV. DE SOFTWARE
 
 **Experiência de uma JOGADORA**
 
-**O que o jogador VÊ?**
+**O que a jogadora VÊ?**
 
 * Quais ambientes, tendências, ofertas e problemas estão ao seu redor?   
 * Dica: descreva referências que influenciam seu comportamento (ex.: redes sociais, concorrentes, experiências de outros consumidores). 
@@ -99,7 +99,7 @@ PROJETO APLIC. DESENV. DE SOFTWARE
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-**O que o jogador OUVE?**
+**O que a jogadora OUVE?**
 
 * O que amigos, colegas, familiares ou influenciadores dizem?   
 * Dica: registre frases ou percepções que moldam sua visão (ex.: recomendações, críticas, conselhos). 
@@ -112,7 +112,7 @@ PROJETO APLIC. DESENV. DE SOFTWARE
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-**O que o jogador PENSA e SENTE?**
+**O que a jogadora PENSA e SENTE?**
 
 * Quais são suas maiores preocupações, esperanças e medos?   
 * Dica: vá além do óbvio, destacando sentimentos muitas vezes não expressos (ex.: ansiedade, expectativa, frustração, entusiasmo). 
@@ -125,7 +125,7 @@ PROJETO APLIC. DESENV. DE SOFTWARE
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-**O que o jogador FALA e FAZ?**
+**O que a jogadora FALA e FAZ?**
 
 * Como ele age em público? O que compartilha ou comenta?   
 * Dica: capture comportamentos observáveis (ex.: postar em redes sociais, perguntar em grupos de WhatsApp, recomendar experiências). 
