@@ -259,61 +259,81 @@ Um exercício de mapeamento de empatia para entender o perfil, os desafios e as 
 #### Nome:
 
 
+
 #### E-mail:
+
 
 
 #### Telefone:
 
 
+
 #### Quais são os principais jogos online que você joga atualmente e em quais plataformas (PC, Console, Mobile)? 
+
 
 
 #### Há quanto tempo você joga jogos online e qual a sua frequência semanal? 
 
 
+
 #### O que eles VEEM: O que você mais vê a comunidade, criadores de conteúdo ou streamers falando sobre a toxicidade nos jogos nas redes sociais?
+
 
 
 #### O que eles VEEM: Olhando para os jogos que você joga hoje, quais comportamentos tóxicos (ex: ofensas verbais, desistência/AFK, trolling, preconceito) você mais presencia no seu dia a dia de partidas? 
 
 
+
 #### O que eles VEEM: Ao olhar para o ambiente de jogo, como você vê a postura das distribuidoras/desenvolvedoras no combate à toxicidade e na punição de jogadores mal-intencionados? 
+
 
 
 #### O que eles OUVEM: O que você costuma ouvir de amigos, familiares ou pessoas de fora do meio gamer sobre o impacto da toxicidade ou sobre o hábito de jogar online? 
 
 
+
 #### O que eles OUVEM: Quais são os principais conselhos ou estratégias que você ouve de outros jogadores mais experientes para lidar com ofensas ou provocações durante as partidas? 
+
 
 
 #### O que eles OUVEM: Quando o assunto é a comunidade do seu jogo principal, o que você mais ouve as pessoas elogiarem ou criticarem nos bastidores (Discord, fóruns, grupos, etc.)? 
 
 
+
 #### O que eles PENSAM e SENTEM: O que realmente passa pela sua cabeça quando você pensa no futuro das comunidades de jogos digitais e no uso de inteligência artificial ou moderação automática para conter a toxicidade?
+
 
 
 #### O que eles PENSAM e SENTEM: Quais são os seus maiores receios emocionais ou mentais hoje ao entrar em uma partida competitiva ou ao ligar o chat de voz? 
 
 
+
 #### O que eles PENSAM e SENTEM: O que traz para você aquela sensação de dever cumprido ou uma experiência realmente positiva ao final de uma sessão de jogos? 
+
 
 
 #### O que eles FALAM e FAZEM: Como você costuma explicar para alguém que não joga o motivo de continuar jogando mesmo em um ambiente frequentemente considerado tóxico? 
 
 
+
 #### O que eles FALAM e FAZEM: Quais atitudes práticas você toma rotineiramente para se proteger ou para resolver/desviar de uma situação de toxicidade durante uma partida (ex: mutar, jogar com amigos, reportar, etc.)? 
+
 
 
 #### O que eles FALAM e FAZEM: Em debates com outros jogadores ou em grupos da comunidade, qual ponto de vista você costuma defender com mais energia sobre como as pessoas deveriam se comportar nos jogos? 
 
 
+
 #### DORES: Qual é o seu maior desafio ou "pedra no sapato" hoje ao tentar se divertir ou evoluir em jogos online sem que a toxicidade estrague a sua experiência? 
+
 
 
 #### DORES: O que mais te frustra no sistema de denúncias (report), na moderação dos jogos ou na postura das próprias empresas desenvolvedoras atualmente? 
 
 
+
 #### GANHOS: O que seria uma virada de chave ou o cenário ideal para você sentir que a comunidade do seu jogo favorito se tornou um lugar seguro e saudável?
+
 
 
 #### GANHOS: Se você pudesse ter acesso a um recurso, ferramenta ou funcionalidade perfeita para facilitar sua vida e proteger sua experiência nos jogos online, o que seria?
@@ -338,6 +358,7 @@ Ajude-nos a entender sua rotina em jogos online, os desafios que você enfrenta 
 
 [ ] Outro
 
+
 #### Há quanto tempo você joga jogos online competitivos/multiplayer? (Marque apenas uma opção)
 
 [ ] Comecei recentemente (menos de 6 meses)
@@ -347,6 +368,7 @@ Ajude-nos a entender sua rotina em jogos online, os desafios que você enfrenta 
 [ ] Entre 2 e 5 anos
 
 [ ] Mais de 5 anos
+
 
 #### Qual é o seu principal objetivo ao ligar o jogo hoje? (Marque apenas uma opção)
 
@@ -360,6 +382,7 @@ Ajude-nos a entender sua rotina em jogos online, os desafios que você enfrenta 
 
 [ ] Outro
 
+
 #### Quando você pensa na sua rotina de jogos hoje, qual é a sua principal preocupação? (Marque apenas uma opção)
 
 [ ] Passar raiva ou ter meu dia estragado por outros jogadores
@@ -371,6 +394,7 @@ Ajude-nos a entender sua rotina em jogos online, os desafios que você enfrenta 
 [ ] Não ter amigos disponíveis para jogar em grupo fechado
 
 [ ] Perder o interesse pelo meu jogo favorito devido à comunidade
+
 
 #### O que mais gera estresse ou desconforto em você durante as partidas? (Marque até três opções)
 
@@ -389,6 +413,7 @@ Ajude-nos a entender sua rotina em jogos online, os desafios que você enfrenta 
 [ ] Ineficiência ou falta de punição do sistema de reports
 
 [ ] Outro
+
 
 #### Se pudesse resolver UM problema na sua experiência de jogo hoje, qual seria? 
 
@@ -411,6 +436,7 @@ Ajude-nos a entender sua rotina em jogos online, os desafios que você enfrenta 
 
 [ ] Outro
 
+
 #### Quem mais influencia a sua decisão de continuar jogando ou abandonar um jogo? (Marque apenas uma opção)
 
 [ ] Amigos/Grupo com quem jogo junto
@@ -422,6 +448,7 @@ Ajude-nos a entender sua rotina em jogos online, os desafios que você enfrenta 
 [ ] A própria comunidade do jogo
 
 [ ] Ninguém em particular (decisão puramente individual)
+
 
 #### O que você costuma fazer para se proteger ou combater a toxicidade nas suas partidas? (Marque todas que se aplicam)
 
@@ -441,6 +468,7 @@ Ajude-nos a entender sua rotina em jogos online, os desafios que você enfrenta 
 
 [ ] Ainda não sei bem como lidar / acabo acumulando a frustração
 
+
 #### O que mais dificulta a existência de uma comunidade mais saudável nos jogos? (Marque até três opções) 
 
 [ ] Impunidade / Punições muito leves para jogadores infratores
@@ -459,7 +487,9 @@ Ajude-nos a entender sua rotina em jogos online, os desafios que você enfrenta 
 
 [ ] Outro
 
+
 #### Como você gostaria que fosse a sua experiência de jogo daqui a 12 meses? (Resposta aberta curta)
+
 
 #### Se pudesse contar com uma nova ferramenta ou iniciativa para melhorar suas partidas, em que gostaria de ver foco? (Marque todas que se aplicam) 
 
@@ -477,9 +507,12 @@ Ajude-nos a entender sua rotina em jogos online, os desafios que você enfrenta 
 
 [ ] Painéis com feedbacks claros sobre o andamento dos seus reports
 
+
 #### Complete: Eu gostaria muito que as empresas de jogos criassem algo para me ajudar a... (Resposta aberta curta) 
 
+
 #### O que faria uma ferramenta ou plataforma contra toxicidade realmente valer a pena para você utilizar? (Resposta aberta curta) 
+
 
 #### Você teria interesse em participar de um bate-papo de 15 a 30 minutos (online) para compartilhar mais detalhes sobre suas experiências e testar ideias de soluções? (Marque apenas uma opção)
 
