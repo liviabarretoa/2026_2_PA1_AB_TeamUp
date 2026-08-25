@@ -26,6 +26,8 @@ Respostas:
 • Não deve ser confundido com um aplicativo de relacionamento/namoro.  
 • Não é uma plataforma de transmissão, loja de itens de jogo e um fórum aberto de discussão sem moderação de conduta.
 
+---
+
 ### Seção Faz:   
 O que o produto faz, suas funcionalidades principais e benefícios.   
 Perguntas norteadoras:   
@@ -37,6 +39,8 @@ Respostas:
 • Disponibiliza grupos de jogadores compatíveis com a reputação/comportamento do usuário.  
 • Permite o cadastro com perfil de jogador, com filtros de elo, jogos e horários.  
 • Diminui drasticamente a exposição à toxicidade, comportamentos agressivos e abandonos de partida, visto que o usuário buscará por outros jogadores semelhantes a ele.
+
+---
 
 ### Seção Não Faz:   
 O que o produto não faz, delimitando fronteiras de escopo.   
