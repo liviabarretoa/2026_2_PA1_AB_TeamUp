@@ -1,6 +1,6 @@
 # **Questionário de Empatia**
 
-Um exercício de mapeamento de empatia para entender o perfil, os desafios e as aspirações de pessoas que jogam jogos online e lidam com ambientes tóxicos na comunidade. 
+### Um exercício de mapeamento de empatia para entender o perfil, os desafios e as aspirações de pessoas que jogam jogos online e lidam com ambientes tóxicos na comunidade. 
 
 **Entrevistada por:** Manuelly Rodrigues
 
