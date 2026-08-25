@@ -1,6 +1,6 @@
 # **Questionário de Empatia**
 
-Um exercício de mapeamento de empatia para entender o perfil, os desafios e as aspirações de pessoas que jogam jogos online e lidam com ambientes tóxicos na comunidade. 
+### Um exercício de mapeamento de empatia para entender o perfil, os desafios e as aspirações de pessoas que jogam jogos online e lidam com ambientes tóxicos na comunidade. 
 
 **Entrevistado por:** Lívia Barreto
 
@@ -43,7 +43,7 @@ Um exercício de mapeamento de empatia para entender o perfil, os desafios e as 
 11. **O que eles OUVEM: Quando o assunto é a comunidade do seu jogo principal, o que você mais ouve as pessoas elogiarem ou criticarem nos bastidores (Discord, fóruns, grupos, etc.)?** 
 
 	  
-**Resposta:** De elogio eu não escuto muita coisa porque fica ofuscado devido ao número de pessoas que falam que o jogo está morrendo por conta da comunidade.
+    **Resposta:** De elogio eu não escuto muita coisa porque fica ofuscado devido ao número de pessoas que falam que o jogo está morrendo por conta da comunidade.
 
 12. **O que eles PENSAM e SENTEM: O que realmente passa pela sua cabeça quando você pensa no futuro das comunidades de jogos digitais e no uso de inteligência artificial ou moderação automática para conter a toxicidade?**
 
