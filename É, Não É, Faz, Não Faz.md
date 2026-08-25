@@ -1,6 +1,6 @@
-**Atividade “É, Não é, Faz, Não faz”**
+# Atividade “É, Não é, Faz, Não faz”
 
-**Seção É:**   
+## Seção É:   
 O que o produto é, ou seja, sua essência, natureza e posicionamento   
 Perguntas norteadoras:   
 **• Qual é a categoria ou tipo de produto?**   
