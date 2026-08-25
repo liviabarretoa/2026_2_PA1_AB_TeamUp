@@ -1,6 +1,6 @@
 # **Questionário de Empatia**
 
-Um exercício de mapeamento de empatia para entender o perfil, os desafios e as aspirações de pessoas que jogam jogos online e lidam com ambientes tóxicos na comunidade. 
+### Um exercício de mapeamento de empatia para entender o perfil, os desafios e as aspirações de pessoas que jogam jogos online e lidam com ambientes tóxicos na comunidade. 
 
 **Entrevistado por:** Rômulo Montenegro
 
@@ -14,8 +14,7 @@ Um exercício de mapeamento de empatia para entender o perfil, os desafios e as 
 
 4. **Quais são os principais jogos online que você joga atualmente e em quais plataformas (PC, Console, Mobile)?** 
 
-       	**Resposta:** Atualmente Dead By Daylight no Pc, mas já joguei diversos outros jogos,   
-até no console ou mobile.
+   **Resposta:** Atualmente Dead By Daylight no PC, mas já joguei diversos outros jogos, até no console ou mobile.
 
 5. **Há quanto tempo você joga jogos online e qual a sua frequência semanal?** 
 
@@ -50,7 +49,7 @@ até no console ou mobile.
 12. **O que eles PENSAM e SENTEM: O que realmente passa pela sua cabeça quando você pensa no futuro das comunidades de jogos digitais e no uso de inteligência artificial ou moderação automática para conter a toxicidade?**
 
           	  
-**Resposta:** Sinto que no futuro as coisas possam melhorar, ou talvez não, pois também vão surgir novos métodos de burlar esses sistemas de moderação automática.
+    **Resposta:** Sinto que no futuro as coisas possam melhorar, ou talvez não, pois também vão surgir novos métodos de burlar esses sistemas de moderação automática.
 
 13. **O que eles PENSAM e SENTEM: Quais são os seus maiores receios emocionais ou mentais hoje ao entrar em uma partida competitiva ou ao ligar o chat de voz?** 
 
