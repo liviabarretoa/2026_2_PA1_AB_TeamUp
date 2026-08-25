@@ -39,7 +39,7 @@ Um exercício de mapeamento de empatia para entender o perfil, os desafios e as 
 10. **O que eles OUVEM: Quais são os principais conselhos ou estratégias que você ouve de outros jogadores mais experientes para lidar com ofensas ou provocações durante as partidas?** 
 
 	  
-**Resposta:** O principal conselho é não entrar na provocação, silenciar o jogador, evitar discussões e, quando necessário, denunciar. Também é muito comum a recomendação de jogar com amigos, porque isso torna a experiência mais tranquila. 
+  **Resposta:** O principal conselho é não entrar na provocação, silenciar o jogador, evitar discussões e, quando necessário, denunciar. Também é muito comum a recomendação de jogar com amigos, porque isso torna a experiência mais tranquila. 
 
 11. **O que eles OUVEM: Quando o assunto é a comunidade do seu jogo principal, o que você mais ouve as pessoas elogiarem ou criticarem nos bastidores (Discord, fóruns, grupos, etc.)?**   
       
