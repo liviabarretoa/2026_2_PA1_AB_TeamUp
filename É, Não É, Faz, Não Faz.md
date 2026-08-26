@@ -12,7 +12,7 @@ Respostas:
 • É uma plataforma com foco na redução da toxicidade no ambiente de jogos.  
 • É uma plataforma de conexão entre jogadores de e-sports/games online.
 
----
+--
 
 ### Seção Não É:   
 O que o produto não é, ajudando a evitar interpretações erradas.   
