@@ -37,11 +37,11 @@
 
 ### 10. **O que eles OUVEM: Quais são os principais conselhos ou estratégias que você ouve de outros jogadores mais experientes para lidar com ofensas ou provocações durante as partidas?** 
 
-  **Resposta:** Desativar o chat ou qualquer meio de comunicação, até por voz, e se caso aconteça algo mesmo assim, denunciar/reportar.
+**Resposta:** Desativar o chat ou qualquer meio de comunicação, até por voz, e se caso aconteça algo mesmo assim, denunciar/reportar.
 
 ### 11. **O que eles OUVEM: Quando o assunto é a comunidade do seu jogo principal, o que você mais ouve as pessoas elogiarem ou criticarem nos bastidores (Discord, fóruns, grupos, etc.)?** 
 
-  **Resposta:** Escuto muitos elogios vindo do DBD, até porque não tem como a pessoa ser tóxica durante a gameplay em si. Geralmente o pessoal é tranquilo, até chegar no chat final da partida que aí acontecem os casos de toxicidade, ou algum teammate que propositalmente está jogando mal e deixando você na mão.
+**Resposta:** Escuto muitos elogios vindo do DBD, até porque não tem como a pessoa ser tóxica durante a gameplay em si. Geralmente o pessoal é tranquilo, até chegar no chat final da partida que aí acontecem os casos de toxicidade, ou algum teammate que propositalmente está jogando mal e deixando você na mão.
 
 ### 12. **O que eles PENSAM e SENTEM: O que realmente passa pela sua cabeça quando você pensa no futuro das comunidades de jogos digitais e no uso de inteligência artificial ou moderação automática para conter a toxicidade?**
 
