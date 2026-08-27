@@ -1,10 +1,10 @@
 # **Problem-Solution Fit Canvas**
 
-1. ## **Segmentos de Clientes**
+## 1. **Segmentos de Clientes**
 
 * Jogadores
 
-2. ## **Jobs to Be Done/Dores**	
+## 2. **Jobs to Be Done/Dores**	
 
 **Jogadores de Jogos Online (Usuários do Aplicativo)**
 
@@ -23,7 +23,7 @@
 | Ser visto como alguém valorizado por dar visibilidade ao próprio aplicativo para mais visitas | Ausência de incentivos ou reconhecimento dentro da plataforma para membros ativos que constroem uma comunidade engajada  |
 | Ser recomendado por visitantes por ter cumprido as regras | Falta de um sistema de reputação cumulativo que premie e recomende quem joga com ética, respeito e espírito de equipe  |
 
-3. ## **Gatilhos para Agir** 
+## 3. **Gatilhos para Agir** 
 
 * Sofrer com toxicidade, ofensas ou machismo no chat de voz/texto durante filas aleatórias (*solo queue*) ou até em partidas casuais, gerando desânimo de jogar desacompanhado;  
 * Perder partidas ranqueadas seguidas por falta de comunicação, partidas desbalanceadas ou desistências (*trolls* e *rage quits*) no time aleatório;  
@@ -33,40 +33,40 @@
   
 
 
-4. ## **Emoções** 
+## 4. **Emoções** 
 
 * **Antes:** ansiedade e medo de sofrer toxicidade ou assédio no chat de voz, frustração ao depender de filas aleatórias com jogadores descompromissados, estresse por falta de sincronia de horários/elo e desconfiança quanto à conduta de parceiros desconhecidos.   
 * **Depois:** tranquilidade e sensação de segurança ao se comunicar livremente, alívio por jogar em um ambiente livre de ofensas, confiança proporcionada pelo sistema de reputação e notas, e satisfação ao competir ao lado de parceiros alinhados e respeitosos. 
 
-## 
 
-5. ## **Soluções Disponíveis** 
+
+## 5. **Soluções Disponíveis** 
 
 * Matchmaking padrão dos próprios jogos (fila solo aleatória), sujeitando o jogador a times sem comunicação, comportamento tóxico e desistências;   
 * Servidores comunitários em plataformas de voz (Discord) e grupos em redes sociais (Facebook, WhatsApp, Reddit), exigindo busca manual e sem garantia de compatibilidade ou conduta;  
 * Comunidades e iniciativas externas informais voltadas ao público feminino para formação de grupos seguros em jogos específicos;  
 * Sistemas internos de denúncia (*report*) e honra pós-jogo das próprias desenvolvedoras, que atuam de forma reativa e não evitam o contato inicial com jogadores desrespeitosos. 
 
-6. **Limitações para agir**
+## 6. **Limitações para agir**
 
 * **Fricção de cadastro e configuração:** Pouca paciência para preencher perfis longos, sincronizar contas de jogos ou configurar agendas antes de poder jogar.  
 * **Problema de liquidez de rede (tempo de espera):** Receio de não encontrar pessoas suficientes ativas no mesmo jogo, elo e horário no exato momento da busca, voltando para a fila solo por comodidade imediata.  
 * **Medo de avaliações injustas (review bombing):** Insegurança de sofrer retaliações na nota por ter jogado mal uma partida ou por desentendimentos táticos.  
 * **Timidez e atrito social:** Barreiras para iniciar conversa e marcar partidas fora do ambiente integrado do próprio jogo.
 
-7. **Comportamentos**
+## 7. **Comportamentos**
 
 * Entra na fila aleatória (*solo queue*) torcendo por sorte no pareamento, mutando o chat de voz e texto aos primeiros sinais de hostilidade.  
 * Envia mensagens manuais em canais de busca de grupo no Discord ("*procuro duo platina agora*"), esperando respostas passivamente em meio a centenas de mensagens soltas.  
 * Consulta plataformas de estatísticas externas (OP.GG, Tracker.gg) para verificar se o parceiro joga bem mecanicamente, sem conseguir checar conduta social.  
 * Cria grupos privados no WhatsApp ou servidores fechados no Discord apenas com pessoas conhecidas, limitando suas opções de jogo quando esses amigos estão offline.
 
-8. **Canais dos comportamentos**
+## 8. **Canais dos comportamentos**
 
 * **Online:** Filas dentro do cliente dos jogos; servidores comunitários no Discord; grupos de Facebook/WhatsApp; fóruns (Reddit/grupos de streamers); plataformas de estatísticas públicas de jogos.  
 * **Contexto de uso / Offline:** Setup de jogos (PC ou console), comunicação por headset em casa, conversas e convites entre círculos de amigos na escola, faculdade ou trabalho.
 
-9. **Causas raízes**
+## 9. **Causas raízes**
 
 | Job | Causa |
 | :---- | :---- |
@@ -75,7 +75,7 @@
 | **Saber o histórico de conduta do jogador antes da partida** | Inexistência de um perfil comportamental público; as métricas públicas expõem apenas desempenho mecânico (K/D, vitórias, ranque), ocultando a postura e a comunicação em equipe. |
 | **Filtrar parceiros com precisão e controle de perfil** | Ferramentas comunitárias existentes (Discord, redes sociais) operam com texto livre e desorganizado, exigindo triagem manual e sem mecanismos de filtros seguros (como recorte de gênero ou idade). |
 
-10. **Solução**
+## 10. **Solução**
 
 Plataforma mobile/web com interface intuitiva de pareamento (*estilo matchmaking por cards/swipe*), conectando jogadores a duos e equipes fechadas para jogos competitivos (como *Valorant, League of Legends, Counter-Strike, Call of Duty,…*). A solução permite filtragem avançada por jogo, elo/ranque, disponibilidade de horários, faixa etária e recorte de gênero para segurança de jogadoras. Incorpora um sistema bilateral de reputação baseado em notas (0 a 5 estrelas) e avaliações pós-partida, dando visibilidade e prioridade a perfis cooperativos e seguros, reduzindo a exposição à toxicidade nas partidas.
 
