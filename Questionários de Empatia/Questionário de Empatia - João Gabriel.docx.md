@@ -5,13 +5,13 @@
 
 <p align="center"><strong>Entrevistado por:</strong> Rômulo Montenegro</p>
 
-<font size="4"><b><strong>1. Nome:</strong></b></font> João Gabriel de Holanda Montenegro 
+1. **Nome:** João Gabriel de Holanda Montenegro 
 
 2. **E-mail:** joaogabrieldeholanda@gmail.com
 
 3. **Telefone:** (85) 99712-0621
 
-4. **Quais são os principais jogos online que você joga atualmente e em quais plataformas (PC, Console, Mobile)?** 
+### 4. Quais são os principais jogos online que você joga atualmente e em quais plataformas (PC, Console, Mobile)? 
 
    **Resposta:** Atualmente Dead By Daylight no PC, mas já joguei diversos outros jogos, até no console ou mobile.
 
