@@ -7,10 +7,10 @@
 
 1. **Nome:** João Gabriel de Holanda Montenegro 
 
-      
+---      
 
 2. **E-mail:** joaogabrieldeholanda@gmail.com
-
+---
 3. **Telefone:** (85) 99712-0621
 
 4. **Quais são os principais jogos online que você joga atualmente e em quais plataformas (PC, Console, Mobile)?** 
