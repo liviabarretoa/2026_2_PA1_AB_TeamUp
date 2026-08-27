@@ -6,7 +6,7 @@
 
 ## 2. **Jobs to Be Done/Dores**	
 
-**Jogadores de Jogos Online (Usuários do Aplicativo)**
+<p align="center">**Jogadores de Jogos Online (Usuários do Aplicativo)**</p>
 
 | Job | Dores |
 | :---- | :---- |
