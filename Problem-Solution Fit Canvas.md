@@ -64,7 +64,7 @@
 ## 8. **Canais dos comportamentos**
 
 * **Online:** Filas dentro do cliente dos jogos; servidores comunitários no Discord; grupos de Facebook/WhatsApp; fóruns (Reddit/grupos de streamers); plataformas de estatísticas públicas de jogos.  
-* **Contexto de uso / Offline:** Setup de jogos (PC ou console), comunicação por headset em casa, conversas e convites entre círculos de amigos na escola, faculdade ou trabalho.
+* **Contexto de uso/Offline:** Setup de jogos (PC ou console), comunicação por headset em casa, conversas e convites entre círculos de amigos na escola, faculdade ou trabalho.
 
 ## 9. **Causas raízes**
 
