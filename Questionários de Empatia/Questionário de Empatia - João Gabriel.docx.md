@@ -5,30 +5,28 @@
 
 <p align="center"><strong>Entrevistado por:</strong> Rômulo Montenegro</p>
 
-1. **Nome:** João Gabriel de Holanda Montenegro 
+<font size="4"><b><strong>1. Nome:</strong></b></font> João Gabriel de Holanda Montenegro 
 
 2. **E-mail:** joaogabrieldeholanda@gmail.com
 
 3. **Telefone:** (85) 99712-0621
-·········································································
+
 4. **Quais são os principais jogos online que você joga atualmente e em quais plataformas (PC, Console, Mobile)?** 
 
    **Resposta:** Atualmente Dead By Daylight no PC, mas já joguei diversos outros jogos, até no console ou mobile.
----
+
 5. **Há quanto tempo você joga jogos online e qual a sua frequência semanal?** 
 
    **Resposta:** Jogo a mais de 15 anos, pelo menos 2 vezes por semana.
----
+
 6. **O que eles VEEM: O que você mais vê a comunidade, criadores de conteúdo ou *streamers* falando sobre a toxicidade nos jogos nas redes sociais?**
 
    **Resposta:** Vejo principalmente mulheres sofrendo com trash talking em jogos que possuem comunicação aberta, ou comentários ofensivos. Tem streamers/criadores de conteúdo que aumentam mais ainda essa toxicidade nos jogos e criam comunidades totalmente preconceituosas. Nas redes sociais vejo relatos, principalmente de jogos específicos, como League of Legends, Counter Strike e Valorant, em que os jogadores são altamente tóxicos.
----
+
 7. **O que eles VEEM: Olhando para os jogos que você joga hoje, quais comportamentos tóxicos (ex: ofensas verbais, desistência/AFK, *trolling*, preconceito) você mais presencia no seu dia a dia de partidas?**   
      
    **Resposta:** No Dead By Daylight, quando uma partida acaba, o chat fica liberado para todo mundo, e lá muitas vezes as pessoas começam a se xingar sem motivo nenhum. Elas até mesmo brigam. Também há casos de jogadores saírem da partida do nada.  
  
-
-
 8. **O que eles VEEM: Ao olhar para o ambiente de jogo, como você vê a postura das distribuidoras/desenvolvedoras no combate à toxicidade e na punição de jogadores mal-intencionados?** 
 
    **Resposta:** Vejo que eles não fazem quase nada para impedir o aumento dessa toxicidade.
