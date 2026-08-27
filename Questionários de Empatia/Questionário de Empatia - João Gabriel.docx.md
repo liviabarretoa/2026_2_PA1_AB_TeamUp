@@ -15,7 +15,7 @@
 
    **Resposta:** Atualmente Dead By Daylight no PC, mas já joguei diversos outros jogos, até no console ou mobile.
 
-5. **Há quanto tempo você joga jogos online e qual a sua frequência semanal?** 
+### 5. Há quanto tempo você joga jogos online e qual a sua frequência semanal? 
 
    **Resposta:** Jogo a mais de 15 anos, pelo menos 2 vezes por semana.
 
