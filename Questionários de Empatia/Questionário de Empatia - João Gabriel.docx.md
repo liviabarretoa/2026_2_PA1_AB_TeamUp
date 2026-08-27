@@ -3,7 +3,7 @@
 ### <p align="center"><strong>Um exercício de mapeamento de empatia para entender o perfil, os desafios e as aspirações de pessoas que jogam jogos online e lidam com ambientes tóxicos na comunidade. 
 </strong></p>
 
-<p align="center">**Entrevistado por:** Rômulo Montenegro</p>
+<p align="center"><strong>Entrevistado por:</strong> Rômulo Montenegro</p>
 
 1. **Nome:** João Gabriel de Holanda Montenegro 
 
