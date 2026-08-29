@@ -5,8 +5,10 @@
 
 <p align="center"><strong>Entrevistado por:</strong> Rômulo Montenegro</p>
 
-1. **Nome:** João Gabriel de Holanda Montenegro 
+### 1. Nome do Entrevistado: 
+João Gabriel de Holanda Montenegro 
 
+---
 ### 2. Quais são os principais jogos online que você joga atualmente e em quais plataformas (PC, Console, Mobile)? 
 
    **Resposta:** Atualmente Dead By Daylight no PC, mas já joguei diversos outros jogos, até no console ou mobile.
