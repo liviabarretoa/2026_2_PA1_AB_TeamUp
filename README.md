@@ -1,6 +1,9 @@
 # 2026_2_PA1_AB_TeamUp
 # Equipe: 
-Lívia Barreto, Manuelly Rodrigues, Maria Rafaele, Rômulo Montenegro
+Lívia Maria Barreto Albuquerque / 2526422
+Manuelly Rodrigues Pessoa / 2522733
+Maria Rafaele Gomes de Araújo / 2618240
+Rômulo Azevedo Montenegro Neto / 2526043
 
 # 🎮 Team Up
 
