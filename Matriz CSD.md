@@ -57,19 +57,6 @@ Abaixo estão as hipóteses estruturais formuladas na etapa inicial do projeto c
 
 ## 2. Matriz CSD Consolidada
 
-| 🚩 Certezas (2+ Evidências) | 💡 Suposições | ❓ Dúvidas Levantadas |
+| 🚩 Certezas | 💡 Suposições | ❓ Dúvidas Levantadas |
 | :--- | :--- | :--- |
 | • A toxicidade, agressões em chat de voz e preconceitos (com destaque ao machismo) são problemas crônicos e generalizados.<br><br>• O mecanismo padrão de defesa adotado é silenciar o chat/voz e se isolar, sacrificando a comunicação cooperativa.<br><br>• Desacredito completo na moderação nativa e forte indignação com a sensação de impunidade pós-denúncia.<br><br>• Dificuldade crítica de sincronia de horários e falta de amigos disponíveis para fechar grupos.<br><br>• A hostilidade constante desmotiva os jogadores, força pausas de vários dias e leva à evasão da base de usuários. | *Nenhuma suposição pendente.*<br><br>Todas as hipóteses estruturais levantadas no Mapa de Empatia e no Canvas foram testadas e validadas pelos dados coletados. | *Nenhuma dúvida estrutural pendente.*<br><br>As dores, comportamentos e fricções do usuário estão devidamente mapeados e documentados. |
-
----
-
-## 3. Destaques: Descobertas Não Mapeadas no Canvas Inicial
-
-Durante a triangulação dos dados qualitativos e quantitativos, emergiram variáveis críticas que não estavam contempladas nas suposições originais:
-
-* ⚠️ **Impacto Crítico de Trapaças (*Cheats / Hacks*):**  
-  Apontado por Nathalia e respondentes da pesquisa como um gerador de estresse equiparável a agressões verbais, demonstrando que o sentimento de injustiça técnica também deteriora a experiência cooperativa.
-* ⚠️ **Fronteira Tênue entre Cobrança Competitiva e Toxicidade Moral:**  
-  Entrevistados mais focados em ranqueadas (como Vanessa) alertaram que a cobrança por desempenho tático é legítima, mas frequentemente degringola para humilhação pessoal por falta de inteligência emocional dos jogadores.
-* ⚠️ **Papel de Criadores de Conteúdo na Normalização da Hostilidade:**  
-  17 respondentes da pesquisa e as entrevistas qualitativas indicaram que influenciadores e streamers atuam como catalisadores, normalizando piadas ofensivas e comportamentos agressivos que são replicados pela comunidade nas partidas.
