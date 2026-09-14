@@ -1,6 +1,6 @@
 # **The Value Proposition Canvas**
 
-<img width="1488" height="1052" alt="image" src="[https://github.com/user-attachments/assets/31244bd9-cee6-4621-a4f7-503f52c34826](https://cdn.prod.website-files.com/64830736e7f43d491d70ef30/697a357d18562e7d6ffbc031_The%20Value%20Proposition%20Canvas%20-%20Official%20Template%20from%20Strategyzer%20-%20v2.1.pdf.png)" />
+<img width="1488" height="1052" alt="image" src="https://cdn.prod.website-files.com/64830736e7f43d491d70ef30/697a357d18562e7d6ffbc031_The%20Value%20Proposition%20Canvas%20-%20Official%20Template%20from%20Strategyzer%20-%20v2.1.pdf.png" />
 
 ## **Costumer Jobs**
 
