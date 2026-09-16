@@ -9,6 +9,7 @@
 * **Monetização Sustentável sem Pay-to-Win:** Planos premium (recursos visuais, matches ilimitados, filtros extras) sem comprometer o acesso básico à segurança;  
 * **Ciclo Contínuo de Feedback:** Acompanhamento constante da satisfação em partida e eficácia do sistema de reputação.
 
+---
 
 ### **Detalhamento da Fase 1**
 
@@ -32,6 +33,8 @@
 * **Taxa de conclusão de perfil:** ≥ 65% dos usuários cadastrados completam todos os filtros obrigatórios.  
 * **Conversão em partida:** ≥ 40% dos matches trocam ID de jogo no chat em até 24 horas.  
 * **Adoção do filtro de gênero:** ≥ 70% de adesão entre o público feminino cadastrado.
+
+---
 
 ### **Detalhamento da Fase 2**
 
@@ -58,6 +61,8 @@
 * **Eficácia de isolamento:** Perfis com nota \< 3.0 têm redução automática de visualizações e perdem prioridade no feed.  
 * **Taxa de denúncias graves:** ≤ 3% das partidas geram reports manuais de conduta abusiva.  
 * **NPS de segurança (especialmente público feminino):** ≥ 45 pontos na pesquisa de percepção de segurança.
+
+---
 
 ### **Detalhamento da Fase 3**
 
