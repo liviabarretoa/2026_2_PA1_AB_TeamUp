@@ -4,7 +4,7 @@
 
 # 🧩 Value Proposition Canvas: Team Up
 
-## 👤 Perfil do Cliente (Customer Profile)
+## 👤 Customer Profile (Perfil do Cliente)
 
 ### 📋 Customer Jobs (Tarefas do Cliente)
 * Encontrar pessoas para jogar.
@@ -25,7 +25,7 @@
 
 ---
 
-## 🎁 Mapa de Valor (Value Map)
+## 🎁 Value Map (Mapa de Valor)
 
 ### 📦 Products and Services (Produtos e Serviços)
 * Plataforma Web/App para conexão entre jogadores via sistema de match.
