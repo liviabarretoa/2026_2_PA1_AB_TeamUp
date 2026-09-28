@@ -1,10 +1,10 @@
-# 🧠 Mapa de Empatia: Experiência do Jogador
+# Mapa de Empatia: Experiência do Jogador
 
 > Mapeamento de percepções, sentimentos e atitudes do usuário em relação ao ecossistema atual de jogos online.
 
 ---
 
-## 👀 O que o jogador VÊ?
+## O que o jogador VÊ?
 > **Ambientes, tendências, ofertas e problemas ao seu redor.**
 
 * Considera a comunidade muito grande e, por isso, percebe que ela pode ser bastante tóxica.
@@ -13,7 +13,7 @@
 
 ---
 
-## 👂 O que o jogador OUVE?
+## O que o jogador OUVE?
 > **O que amigos, colegas, familiares ou influenciadores dizem.**
 
 * Ouve bastante discurso de ódio e desrespeito contra outros jogadores (insultos frequentes).
@@ -22,7 +22,7 @@
 
 ---
 
-## 💭 O que o jogador PENSA e SENTE?
+## O que o jogador PENSA e SENTE?
 > **Suas maiores preocupações, esperanças, medos e sentimentos.**
 
 * Sente-se desmotivado para jogar e para tentar criar uma relação de amizade com outros jogadores.
@@ -31,7 +31,7 @@
 
 ---
 
-## 🗣️ O que o jogador FALA e FAZ?
+## O que o jogador FALA e FAZ?
 > **Como age em público, o que compartilha, comenta e seus comportamentos observáveis.**
 
 * Quando fala com os amigos sobre jogos online, comenta que não vê um futuro jogando e que muitas vezes sente raiva de jogar.
@@ -40,7 +40,7 @@
 
 ---
 
-## 💔 DORES
+## DORES
 > **Frustrações, riscos e obstáculos que enfrenta.**
 
 * **Desestímulo:** Sente-se mais estressado do que relaxado ao tentar jogar.
@@ -49,7 +49,7 @@
 
 ---
 
-## 🎁 GANHOS
+## GANHOS
 > **O que espera conquistar e benefícios que o fariam se sentir realizado.**
 
 * **Novas Amizades:** Conseguir encontrar pessoas compatíveis e formar laços.
