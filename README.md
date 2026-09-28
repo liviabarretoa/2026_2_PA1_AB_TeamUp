@@ -10,7 +10,7 @@ Inspirado na dinâmica de conexões por afinidade (estilo *match*), o sistema pe
 
 ---
 
-## 🎯 O Propósito
+## O Propósito
 A experiência em filas solo (*solo queue*) muitas vezes é marcada por ambientes tóxicos e hostis, o que desmotiva a comunicação via chat de voz e atrapalha a diversão.
 
 O intuito da plataforma é oferecer um **espaço seguro e saudável fora dos jogos**, permitindo que a comunidade forme duos e times fechados antes de entrar na partida. Com isso, os jogadores têm a liberdade de se comunicar e cooperar sem receio de assédio ou ofensas.
