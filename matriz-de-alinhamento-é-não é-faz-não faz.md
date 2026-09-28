@@ -1,10 +1,10 @@
-# 🎯 Matriz de Alinhamento: É, Não É, Faz, Não Faz
+# Matriz de Alinhamento: É, Não É, Faz, Não Faz
 
 > Documento de definição de essência, escopo e limites para a plataforma Team Up.
 
 ---
 
-## ✅ Seção É
+## Seção É
 **O que o produto é (sua essência, natureza e posicionamento).**
 
 > **❔ Perguntas norteadoras:**
@@ -13,13 +13,13 @@
 > * O que o diferencia de soluções genéricas?
 
 **Respostas:**
-* 📱 É um aplicativo mobile e um site web.
-* 🛡️ É uma plataforma com foco na redução da toxicidade no ambiente de jogos.
-* 🤝 É uma plataforma de conexão entre jogadores de e-sports/games online.
+* É um aplicativo mobile e um site web.
+* É uma plataforma com foco na redução da toxicidade no ambiente de jogos.
+* É uma plataforma de conexão entre jogadores de e-sports/games online.
 
 ---
 
-## ❌ Seção Não É
+##  Seção Não É
 **O que o produto não é (ajudando a evitar interpretações erradas).**
 
 > **❔ Perguntas norteadoras:**
@@ -28,28 +28,28 @@
 > * Que escopos ou categorias similares devem ser descartados?
 
 **Respostas:**
-* 🏆 Não é uma plataforma que garantirá vitórias ou melhoria na habilidade do jogador.
-* 💘 Não deve ser confundido com um aplicativo de relacionamento/namoro.
-* 🛒 Não é uma plataforma de transmissão, loja de itens de jogo, nem um fórum aberto de discussão sem moderação de conduta.
+* Não é uma plataforma que garantirá vitórias ou melhoria na habilidade do jogador.
+* Não deve ser confundido com um aplicativo de relacionamento/namoro.
+* Não é uma plataforma de transmissão, loja de itens de jogo, nem um fórum aberto de discussão sem moderação de conduta.
 
 ---
 
-## ⚙️ Seção Faz
+## Seção Faz
 **O que o produto faz (suas funcionalidades principais e benefícios).**
 
-> **❔ Perguntas norteadoras:**
+> ** Perguntas norteadoras:**
 > * Quais são os resultados concretos que entrega ao usuário?
 > * Que atividades centrais ele possibilita?
 > * Quais problemas ele ajuda a resolver?
 
 **Respostas:**
-* 👥 Disponibiliza grupos de jogadores compatíveis com a reputação/comportamento do usuário.
-* 📝 Permite o cadastro com perfil de jogador, com filtros de elo, jogos e horários.
-* 📉 Diminui drasticamente a exposição à toxicidade, comportamentos agressivos e abandonos de partida, visto que o usuário buscará por outros jogadores semelhantes a ele.
+* Disponibiliza grupos de jogadores compatíveis com a reputação/comportamento do usuário.
+* Permite o cadastro com perfil de jogador, com filtros de elo, jogos e horários.
+* Diminui drasticamente a exposição à toxicidade, comportamentos agressivos e abandonos de partida, visto que o usuário buscará por outros jogadores semelhantes a ele.
 
 ---
 
-## 🚫 Seção Não Faz
+## Seção Não Faz
 **O que o produto não faz (delimitando fronteiras de escopo para o MVP).**
 
 > **❔ Perguntas norteadoras:**
@@ -58,6 +58,6 @@
 > * Quais áreas devem ficar fora do MVP?
 
 **Respostas:**
-* 📹 Não realiza streaming de partidas.
-* 🎮 Não resolve a toxicidade dentro do servidor do próprio jogo.
-* 🔨 Não permite o banimento de contas dentro do jogo.
+* Não realiza streaming de partidas.
+* Não resolve a toxicidade dentro do servidor do próprio jogo.
+* Não permite o banimento de contas dentro do jogo.
