@@ -1,13 +1,13 @@
-# 🧩 Problem-Solution Fit Canvas: Team Up
+# Problem-Solution Fit Canvas: Team Up
 
 ---
 
-## 1. 👥 Segmentos de Clientes
+## 1. Segmentos de Clientes
 * **Jogadores de Jogos Online** (Usuários do Aplicativo)
 
 ---
 
-## 2. 🎯 Jobs to Be Done vs. 💔 Dores
+## 2. Jobs to Be Done vs. Dores
 
 | O que o usuário quer fazer (Job) | O problema atual (Dor) |
 | :--- | :--- |
@@ -26,7 +26,7 @@
 
 ---
 
-## 3. ⚡ Gatilhos para Agir
+## 3. Gatilhos para Agir
 * **Toxicidade e Machismo:** Sofrer ofensas no chat de voz/texto durante filas aleatórias ou casuais, gerando desânimo de jogar desacompanhado.
 * **Derrotas Consecutivas:** Perder partidas ranqueadas por falta de comunicação, times desbalanceados ou desistências (*trolls* e *rage quits*).
 * **Falta de Companhia:** Vontade de jogar em um horário específico e não encontrar amigos disponíveis ou no mesmo elo para fechar a equipe.
@@ -35,14 +35,14 @@
 
 ---
 
-## 4. 🎭 Emoções
+## 4. Emoções
 
-* 😟 **Antes:** Ansiedade e medo de sofrer toxicidade/assédio no chat de voz, frustração ao depender de filas aleatórias com jogadores descompromissados, estresse por falta de sincronia de horários/elo e desconfiança quanto à conduta de parceiros desconhecidos.
-* 😌 **Depois:** Tranquilidade e sensação de segurança ao se comunicar livremente, alívio por jogar em um ambiente livre de ofensas, confiança proporcionada pelo sistema de reputação e notas, e satisfação ao competir ao lado de parceiros alinhados e respeitosos.
+* **Antes:** Ansiedade e medo de sofrer toxicidade/assédio no chat de voz, frustração ao depender de filas aleatórias com jogadores descompromissados, estresse por falta de sincronia de horários/elo e desconfiança quanto à conduta de parceiros desconhecidos.
+* **Depois:** Tranquilidade e sensação de segurança ao se comunicar livremente, alívio por jogar em um ambiente livre de ofensas, confiança proporcionada pelo sistema de reputação e notas, e satisfação ao competir ao lado de parceiros alinhados e respeitosos.
 
 ---
 
-## 5. 🛠️ Soluções Disponíveis (Concorrentes Indiretos)
+## 5. Soluções Disponíveis (Concorrentes Indiretos)
 * **Matchmaking padrão dos jogos:** Sujeita o jogador a times sem comunicação, comportamento tóxico e desistências.
 * **Servidores no Discord e Redes Sociais:** Exigem busca manual e não oferecem garantia de compatibilidade ou conduta.
 * **Comunidades femininas informais:** Iniciativas externas para formação de grupos seguros, mas limitadas a jogos específicos e sem plataforma própria.
@@ -50,7 +50,7 @@
 
 ---
 
-## 6. 🚧 Limitações para Agir
+## 6. Limitações para Agir
 * **Fricção de cadastro:** Pouca paciência para preencher perfis longos, sincronizar contas ou configurar agendas antes de jogar.
 * **Liquidez de rede (Tempo de espera):** Receio de não encontrar pessoas online no mesmo jogo, elo e horário na exata hora da busca.
 * **Medo de retaliação (*Review bombing*):** Insegurança de sofrer notas baixas injustas por ter jogado mal uma partida ou por desentendimentos táticos.
@@ -58,7 +58,7 @@
 
 ---
 
-## 7. 🚶 Comportamentos e Hábitos
+## 7. Comportamentos e Hábitos
 * Entra na fila aleatória (*solo queue*) torcendo por sorte no pareamento, silenciando o chat aos primeiros sinais de hostilidade.
 * Envia mensagens manuais em canais do Discord (ex: *"procuro duo platina agora"*), esperando respostas passivamente.
 * Consulta estatísticas externas (OP.GG, Tracker.gg) para ver a habilidade mecânica do parceiro, sem conseguir checar a conduta social.
@@ -66,13 +66,13 @@
 
 ---
 
-## 8. 🌐 Canais dos Comportamentos
+## 8. Canais dos Comportamentos
 * **Online:** Filas dentro dos clientes dos jogos; servidores comunitários no Discord; grupos de Facebook/WhatsApp; fóruns (Reddit); plataformas de estatísticas.
 * **Contexto de uso/Offline:** Setup de jogos (PC ou console), comunicação por *headset* em casa, conversas e convites entre amigos (escola, faculdade ou trabalho).
 
 ---
 
-## 9. 🌱 Causas Raízes
+## 9. Causas Raízes
 
 | O que o usuário busca (Job) | A verdadeira causa do problema |
 | :--- | :--- |
@@ -83,7 +83,7 @@
 
 ---
 
-## 10. 💡 A Solução (Team Up)
+## 10. A Solução (Team Up)
 
 > Plataforma mobile/web com interface intuitiva de pareamento (estilo matchmaking por *cards/swipe*), conectando jogadores a duos e equipes fechadas para jogos competitivos (como Valorant, League of Legends, Counter-Strike, Call of Duty, etc.). 
 >
