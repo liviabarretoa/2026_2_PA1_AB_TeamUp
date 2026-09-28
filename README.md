@@ -37,7 +37,7 @@ O intuito da plataforma é oferecer um **espaço seguro e saudável fora dos jog
 ## 📚 Documentação do Projeto
 Abaixo estão os documentos estratégicos e de pesquisa que fundamentam o desenvolvimento do Team Up:
 
-* 📄 **[Visão do Produto e Escopo (É/Não É)](#)**
+* 📄 **[Visão do Produto e Escopo (É/Não É)](https://github.com/liviabarretoa/2026_2_PA1_AB_TeamUp/blob/main/matriz-de-alinhamento-%C3%A9-n%C3%A3o%20%C3%A9-faz-n%C3%A3o%20faz.md)**
 * 📄 **[Value Proposition Canvas](#)**
 * 📄 **[Problem-Solution Fit Canvas](#)**
 * 📄 **[Matriz CSD & Mapa de Empatia](#)**
