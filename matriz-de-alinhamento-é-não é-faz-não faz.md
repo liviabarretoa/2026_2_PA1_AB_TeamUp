@@ -7,7 +7,7 @@
 ## Seção É
 **O que o produto é (sua essência, natureza e posicionamento).**
 
-> **❔ Perguntas norteadoras:**
+> **Perguntas norteadoras:**
 > * Qual é a categoria ou tipo de produto?
 > * Como podemos descrever sua identidade de forma simples?
 > * O que o diferencia de soluções genéricas?
@@ -22,7 +22,7 @@
 ##  Seção Não É
 **O que o produto não é (ajudando a evitar interpretações erradas).**
 
-> **❔ Perguntas norteadoras:**
+> **Perguntas norteadoras:**
 > * Quais expectativas erradas podem surgir sobre ele?
 > * Com o que ele não deve ser confundido?
 > * Que escopos ou categorias similares devem ser descartados?
@@ -52,7 +52,7 @@
 ## Seção Não Faz
 **O que o produto não faz (delimitando fronteiras de escopo para o MVP).**
 
-> **❔ Perguntas norteadoras:**
+> **Perguntas norteadoras:**
 > * Que funcionalidades ou responsabilidades não devem estar no produto?
 > * Que problemas ele não pretende resolver?
 > * Quais áreas devem ficar fora do MVP?
