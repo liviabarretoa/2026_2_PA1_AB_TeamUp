@@ -38,13 +38,14 @@ O intuito da plataforma é oferecer um **espaço seguro e saudável fora dos jog
 Abaixo estão os documentos estratégicos e de pesquisa que fundamentam o desenvolvimento do Team Up:
 
 * 📄 **[Visão do Produto e Escopo (É/Não É)](https://github.com/liviabarretoa/2026_2_PA1_AB_TeamUp/blob/main/matriz-de-alinhamento-%C3%A9-n%C3%A3o%20%C3%A9-faz-n%C3%A3o%20faz.md)**
-* 📄 **[Value Proposition Canvas](https://github.com/liviabarretoa/2026_2_PA1_AB_TeamUp/blob/main/the-value-proposition-canvas.md)**
-* 📄 **[Problem-Solution Fit Canvas](https://github.com/liviabarretoa/2026_2_PA1_AB_TeamUp/blob/main/problem-solution-fit-canvas.md)**
 * 📄 **[Matriz CSD & Mapa de Empatia](https://github.com/liviabarretoa/2026_2_PA1_AB_TeamUp/blob/main/matriz-csd.md)**
 * 📄 **[Jobs To Be Done (JTBD)](https://github.com/liviabarretoa/2026_2_PA1_AB_TeamUp/blob/main/jobs-to-be-done(JTBD).md)**
+* 📄 **[Problem-Solution Fit Canvas](https://github.com/liviabarretoa/2026_2_PA1_AB_TeamUp/blob/main/problem-solution-fit-canvas.md)**
+* 📄 **[Business Model Canvas](https://github.com/liviabarretoa/2026_2_PA1_AB_TeamUp/blob/main/business-model-canvas.md)**
+* 📄 **[Value Proposition Canvas](https://github.com/liviabarretoa/2026_2_PA1_AB_TeamUp/blob/main/the-value-proposition-canvas.md)**
 * 📄 **[Jornada do Usuário e Histórias (MVP)](https://github.com/liviabarretoa/2026_2_PA1_AB_TeamUp/blob/main/jornadas-dos-usuarios.md)**
 * 📄 **[Roadmap Estratégico](https://github.com/liviabarretoa/2026_2_PA1_AB_TeamUp/blob/main/roadmap-estrat%C3%A9gico.md)**
-* 📄 **[Business Model Canvas](https://github.com/liviabarretoa/2026_2_PA1_AB_TeamUp/blob/main/business-model-canvas.md)**
+
 
 
 ---
