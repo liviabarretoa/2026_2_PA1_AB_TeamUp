@@ -1,10 +1,10 @@
-# 🎯 Jobs To Be Done (JTBD): Team Up
+# Jobs To Be Done (JTBD): Team Up
 
 > Mapeamento das tarefas, necessidades e objetivos que o usuário busca resolver ao utilizar a plataforma.
 
 ---
 
-## ⚙️ Jobs Funcionais
+## Jobs Funcionais
 *Tarefas práticas e objetivas que o usuário precisa executar.*
 
 * **Encontrar pessoas** para jogar.
@@ -15,7 +15,7 @@
 
 ---
 
-## 💖 Jobs Emocionais
+## Jobs Emocionais
 *Como o usuário quer se sentir ao realizar essas tarefas.*
 
 * **Sentir tranquilidade** por ter informações confiáveis e atualizadas do jogador.
@@ -25,7 +25,7 @@
 
 ---
 
-## 🤝 Jobs Sociais
+## Jobs Sociais
 *Como o usuário quer ser percebido pelos outros dentro da comunidade.*
 
 * **Ser reconhecido** como um parceiro confiável pelo seu comportamento saudável.
