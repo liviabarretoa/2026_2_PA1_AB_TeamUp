@@ -15,7 +15,7 @@
 * **Touchpoint:** Tela: Perfil do Jogador.
 
 ### 3. Ver sistema de reputação e avaliações
-* **Descrição:** Checar a nota (0 a 5 ⭐) e ler os feedbacks descritivos deixados por pessoas que já jogaram com ela anteriormente.
+* **Descrição:** Checar a nota (0 a 5 estrelas) e ler os feedbacks descritivos deixados por pessoas que já jogaram com ela anteriormente.
 * **Sentimento do usuário:** Legal, ela tem 4.8 estrelas e dizem que tem uma comunicação ótima e não dá "rage". Sinto segurança para mandar o convite.
 * **Touchpoint:** Seção: Reputação & Reviews (na página de Perfil do Jogador).
 
