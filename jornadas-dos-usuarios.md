@@ -1,6 +1,6 @@
 # Team Up: Jornada do Usuário & Histórias (MVP)
 
-## 📍 Jornada 1
+## Jornada 1
 **Persona:** Marina, a jogadora focada que quer subir de elo após o trabalho, mas está cansada da toxicidade da fila solo e não quer perder tempo com trolls.  
 **Objetivo:** Encontrar um Duo compatível para jogar partidas ranqueadas de Valorant hoje à noite, confirmando se a pessoa tem boa reputação para garantir um jogo sem estresse no MVP.
 
@@ -31,7 +31,7 @@
 
 ---
 
-## 📚 Histórias de Usuários
+## Histórias de Usuários
 
 ### Acessar área do jogador e iniciar cadastro do Perfil Gamer
 
@@ -54,11 +54,11 @@
 * **Estimativa (pontos):** —
 * **Tags:** `onboarding`, `perfil`, `matchmaking`, `mvp`
 
-#### 🔍 Detalhes
+#### Detalhes
 **Descrição Detalhada:**  
 Esta história cobre o primeiro contato do jogador com a área de gestão do seu perfil dentro do Team Up, garantindo um início rápido e guiado. Ao entrar na Área do Jogador, o usuário deve ver seu status de configuração (contas de jogos vinculadas, disponibilidade de horários, elo/ranque e estilo de gameplay) e um caminho óbvio para iniciar/continuar o cadastro. A experiência deve priorizar fluidez, reduzindo a fricção para que o jogador possa ir para a busca de duos o mais rápido possível. O sistema deve identificar se o usuário já tem um perfil ativo e, caso tenha, levar para o painel de gestão com ações de "continuar configuração" ou "atualizar status" (ex: mudar de 'disponível para jogar' para 'ausente'). Caso não tenha, deve iniciar um fluxo de onboarding com progresso visível e salvamento automático.
 
-#### 🎨 Orientações de Tela
+#### Orientações de Tela
 * **Título:** "Meu Perfil Gamer"
 * **Subtítulo/boas-vindas:** "Configure suas preferências para encontrarmos o seu duo ou squad ideal."
 * **Bloco de progresso (checklist):** "Jogos e Contas (Nicks)", "Nível e Elo", "Horários", "Estilo de Jogo" com status (Pendente/Em andamento/Concluído).
@@ -70,7 +70,7 @@ Esta história cobre o primeiro contato do jogador com a área de gestão do seu
 * **Estado vazio (sem perfil):** ilustração gamificada + texto "Você ainda não configurou seu perfil para dar match."
 * **Feedback de carregamento:** skeleton/loader para o checklist e os cards de status.
 
-#### ⚙️ Regras de Negócio
+#### Regras de Negócio
 1. Se o usuário não possuir um perfil configurado, exibir estado vazio e CTA "Criar Perfil", bloqueando o acesso à tela de Matchmaking.
 2. Se o usuário possuir um perfil incompleto, exibir checklist com percentuais e CTA "Completar Perfil", levando diretamente à primeira etapa pendente.
 3. O checklist deve considerar o "Perfil Mínimo" concluído apenas se: pelo menos 1 jogo estiver selecionado, o Nickname/ID correspondente for preenchido e ao menos 1 turno de disponibilidade (ex: Noite) estiver marcado.
@@ -78,7 +78,7 @@ Esta história cobre o primeiro contato do jogador com a área de gestão do seu
 5. Exibir mensagens de erro amigáveis se falhar o carregamento do status do banco de dados com a opção "Tentar novamente".
 6. Manter estado de progresso sincronizado com o backend (salvamento a cada etapa concluída no onboarding); não confiar apenas em cache local.
 
-#### 🛠️ BDD & Implementação
+#### BDD & Implementação
 
 **Critérios de Aceitação (BDD)**
 
