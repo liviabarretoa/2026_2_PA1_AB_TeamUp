@@ -1,81 +1,57 @@
-# MAPA DE EMPATIA    
+# 🧠 Mapa de Empatia: Experiência do Jogador
 
-<img width="1488" height="1052" alt="image" src="https://github.com/user-attachments/assets/31244bd9-cee6-4621-a4f7-503f52c34826" />
-
-### Experiência de um JOGADOR
-
-**O que o jogador VÊ?**
-
-* Quais ambientes, tendências, ofertas e problemas estão ao seu redor?   
-* Dica: descreva referências que influenciam seu comportamento (ex.: redes sociais, concorrentes, experiências de outros consumidores). 
-
-**Resposta**
-
-* Considera a comunidade muito grande e, por isso, pode ser bastante tóxica;  
-* Percebe que criar laços com outros jogadores é difícil;  
-* Considera que os jogadores são difíceis de confiar, causando insegurança.
+> Mapeamento de percepções, sentimentos e atitudes do usuário em relação ao ecossistema atual de jogos online.
 
 ---
 
-**O que o jogador OUVE?**
+## 👀 O que o jogador VÊ?
+> **Ambientes, tendências, ofertas e problemas ao seu redor.**
 
-* O que amigos, colegas, familiares ou influenciadores dizem?   
-* Dica: registre frases ou percepções que moldam sua visão (ex.: recomendações, críticas, conselhos). 
-
-**Resposta**
-
-* Bastante discurso de ódio e desrespeito com outros jogadores (como por exemplo insultos);  
-* Comentários de influenciadores sobre o quanto a comunidade pode ser tóxica e complicada de lidar;  
-* Ouve críticas sobre o funcionamento das denúncias e banimento dentro do jogo.
+* Considera a comunidade muito grande e, por isso, percebe que ela pode ser bastante tóxica.
+* Percebe que criar laços com outros jogadores é uma tarefa difícil.
+* Considera que os jogadores são difíceis de confiar, o que lhe causa grande insegurança.
 
 ---
 
-**O que o jogador PENSA e SENTE?**
+## 👂 O que o jogador OUVE?
+> **O que amigos, colegas, familiares ou influenciadores dizem.**
 
-* Quais são suas maiores preocupações, esperanças e medos?   
-* Dica: vá além do óbvio, destacando sentimentos muitas vezes não expressos (ex.: ansiedade, expectativa, frustração, entusiasmo). 
-
-**Resposta**
-
-* Se sente desmotivado em jogar o próprio jogo e em criar uma relação de amizade com outros jogadores;  
-* Sente medo e receio do cenário não mudar, visto que nem denunciando o problema é resolvido;  
-* Fica indignado sobre como a comunidade, muitas vezes, faz comentários envolvendo discurso de ódio (machismo, racismo, homofobia, etc).
+* Ouve bastante discurso de ódio e desrespeito contra outros jogadores (insultos frequentes).
+* Ouve comentários de influenciadores sobre o quanto a comunidade pode ser tóxica e complicada de lidar.
+* Ouve críticas recorrentes sobre o mau funcionamento e a ineficiência do sistema de denúncias e banimentos dentro do jogo.
 
 ---
 
-**O que o jogador FALA e FAZ?**
+## 💭 O que o jogador PENSA e SENTE?
+> **Suas maiores preocupações, esperanças, medos e sentimentos.**
 
-* Como ele age em público? O que compartilha ou comenta?   
-* Dica: capture comportamentos observáveis (ex.: postar em redes sociais, perguntar em grupos de WhatsApp, recomendar experiências). 
-
-**Resposta**
-
-* Quando fala com os amigos sobre jogos online, comenta que não vê um futuro jogando eles e que muitas vezes sente raiva de jogar;  
-* Evita interagir com os jogadores que não são seus conhecidos;  
-* Deixa de jogar por saber que a comunidade é tóxica.
+* Sente-se desmotivado para jogar e para tentar criar uma relação de amizade com outros jogadores.
+* Sente medo e receio de que o cenário não mude, visto que, mesmo denunciando, o problema raramente é resolvido.
+* Fica indignado com a forma como a comunidade frequentemente faz comentários envolvendo discursos de ódio (machismo, racismo, homofobia, etc.).
 
 ---
 
-**DORES**
+## 🗣️ O que o jogador FALA e FAZ?
+> **Como age em público, o que compartilha, comenta e seus comportamentos observáveis.**
 
-* Quais frustrações, riscos ou obstáculos enfrenta?   
-* Dica: conecte com os problemas mais críticos do cliente, que devem ser aliviados pela solução. 
-
-**Resposta**
-
-* Desestímulo em jogar, por se sentir mais estressado do que relaxado;  
-* Isolamento da comunidade e da comunicação em jogo, que muitas vezes é necessária;  
-* Percebe que fica ansioso jogando.
+* Quando fala com os amigos sobre jogos online, comenta que não vê um futuro jogando e que muitas vezes sente raiva de jogar.
+* Evita ativamente interagir com jogadores que não são seus conhecidos.
+* Deixa de jogar ou pausa as sessões por saber que a comunidade é tóxica.
 
 ---
 
-**GANHOS**
+## 💔 DORES
+> **Frustrações, riscos e obstáculos que enfrenta.**
 
-* O que o cliente espera conquistar? Quais benefícios o fariam se sentir realizado?   
-* Dica: pense em ganhos funcionais (conveniência, economia de tempo) e emocionais (satisfação, status, pertencimento). 
+* **Desestímulo:** Sente-se mais estressado do que relaxado ao tentar jogar.
+* **Isolamento:** Afasta-se da comunidade e bloqueia a comunicação no jogo, mesmo quando ela é necessária para a partida.
+* **Ansiedade:** Percebe que fica constantemente ansioso durante a gameplay.
 
-**Resposta**
+---
 
-* Encontrar novas amizades;  
-* Ter mais confiança no ambiente, se sentindo mais seguro;  
-* Se sentiria estimulado a jogar mais, para relaxar e se divertir.
+## 🎁 GANHOS
+> **O que espera conquistar e benefícios que o fariam se sentir realizado.**
+
+* **Novas Amizades:** Conseguir encontrar pessoas compatíveis e formar laços.
+* **Segurança e Confiança:** Ter muito mais confiança no ambiente, sentindo-se seguro.
+* **Retorno da Diversão:** Sentir-se estimulado a jogar mais, utilizando o tempo para relaxar e se divertir de verdade.
