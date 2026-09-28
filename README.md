@@ -44,7 +44,7 @@ Abaixo estão os documentos estratégicos e de pesquisa que fundamentam o desenv
 * 📄 **[Jobs To Be Done (JTBD)](https://github.com/liviabarretoa/2026_2_PA1_AB_TeamUp/blob/main/jobs-to-be-done(JTBD).md)**
 * 📄 **[Jornada do Usuário e Histórias (MVP)](https://github.com/liviabarretoa/2026_2_PA1_AB_TeamUp/blob/main/jornadas-dos-usuarios.md)**
 * 📄 **[Roadmap Estratégico](https://github.com/liviabarretoa/2026_2_PA1_AB_TeamUp/blob/main/roadmap-estrat%C3%A9gico.md)**
-
+* 📄 **[Business Model Canvas](https://github.com/liviabarretoa/2026_2_PA1_AB_TeamUp/blob/main/business-model-canvas.md)**
 
 
 ---
