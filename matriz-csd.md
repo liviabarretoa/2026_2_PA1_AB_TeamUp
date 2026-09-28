@@ -1,4 +1,4 @@
-# 📊 Matriz CSD: Team Up
+# Matriz CSD: Team Up
 
 > **Etapa:** Análise Estrutural do Problema e Mapeamento de Empatia  
 > **Objetivo:** Validação integral das hipóteses e suposições comportamentais através do cruzamento entre dados qualitativos (Questionários de Empatia) e quantitativos (Pesquisa de Experiência e Toxicidade).
@@ -11,7 +11,7 @@ Abaixo estão as hipóteses estruturais formuladas na etapa inicial do projeto c
 
 ### 1.1 Dependência da Fila Solo (*Solo Queue*) e Desbalanceamento
 * **Suposição:** O jogador depende do pareamento aleatório do jogo e sofre com desbalanceamento, falta de comunicação, desistências (AFK) e comportamentos antidesportivos (*trolling*).
-* **Status:** 🚩 CERTEZA
+* **Status:**  CERTEZA
 * **Evidências:**
   * Na pesquisa quantitativa (N=36), a maior preocupação ao abrir o jogo é "Não ter amigos disponíveis para jogar em grupo fechado" (13 votos), seguida por "Não conseguir evoluir de nível devido a trolls e AFK" (8 votos).
   * 18 participantes apontaram *trolling/feeding* intencional e 14 apontaram abandono no meio da partida (AFK) entre os maiores causadores de estresse.
@@ -19,7 +19,7 @@ Abaixo estão as hipóteses estruturais formuladas na etapa inicial do projeto c
 
 ### 1.2 Hostilidade nos Canais de Comunicação e Discursos de Ódio
 * **Suposição:** O ambiente de jogo é permeado por ofensas verbais, agressividade no chat de voz e preconceitos estruturais (com ênfase em machismo contra jogadoras).
-* **Status:** 🚩 CERTEZA
+* **Status:**  CERTEZA
 * **Evidências:**
   * Na pesquisa quantitativa, Discurso de ódio (16 votos) e Xingamentos/ofensas verbais (16 votos) somaram 32 indicações como principais geradores de desgaste emocional.
   * 100% dos entrevistados relataram vivenciar agressões e preconceitos rotineiramente.
@@ -27,28 +27,28 @@ Abaixo estão as hipóteses estruturais formuladas na etapa inicial do projeto c
 
 ### 1.3 Isolamento e Silenciamento (Mutar) como Mecanismo de Defesa
 * **Suposição:** O jogador adota o ato de silenciar (*mutar*) ou se isolar socialmente como a principal forma de proteção pessoal.
-* **Status:** 🚩 CERTEZA
+* **Status:**  CERTEZA
 * **Evidências:**
   * Na pesquisa, 22 respondentes afirmaram usar a função "silenciar imediatamente" e 9 deixam canais de áudio desativados de forma permanente nas configurações.
   * A totalidade dos entrevistados confirmou mutar canais ou migrar conversas para plataformas externas fechadas, destacando que essa postura afeta negativamente o desempenho estratégico e o espírito de equipe.
 
 ### 1.4 Ineficiência dos Canais de Denúncia Nativos e Sensação de Impunidade
 * **Suposição:** Os sistemas nativos de denúncia (*report*) e a moderação das distribuidoras são lentos, ineficazes e sustentam uma cultura de impunidade.
-* **Status:** 🚩 CERTEZA
+* **Status:**  CERTEZA
 * **Evidências:**
   * O fator número um apontado na pesquisa como barreira para uma comunidade saudável foi "Impunidade / Punições muito leves" (27 votos), acompanhado por "Ineficiência do sistema de reports" (19 votos).
   * Todos os entrevistados relataram que punições praticamente não acontecem, limitam-se a restrições temporárias irrelevantes, ou demoram excessivamente para serem aplicadas.
 
 ### 1.5 Assincronia de Rotinas e Falta de Companheiros Compatíveis
 * **Suposição:** Diferenças de horários de rotina e a escassez de parceiros alinhados impedem a manutenção de equipes fixas.
-* **Status:** 🚩 CERTEZA
+* **Status:**  CERTEZA
 * **Evidências:**
   * Identificada como a maior preocupação na pesquisa quantitativa (13 votos).
   * Os perfis entrevistados possuem janelas restritas de tempo: João Gabriel joga apenas 2 vezes por semana, Mateus limita suas sessões a 10 horas semanais por conciliar faculdade e trabalho, e Vanessa tem disponibilidade focada em horários noturnos e finais de semana.
 
 ### 1.6 Desgaste Psicológico, Pausas Recorrentes e Abandono de Jogos
 * **Suposição:** A sobrecarga gerada pela hostilidade crônica causa desmotivação, pausas prolongadas e evasão de jogadores.
-* **Status:** 🚩 CERTEZA
+* **Status:**  CERTEZA
 * **Evidências:**
   * Na pesquisa, 6 participantes relataram parar de jogar por dias após experiências ruins e 5 apontaram o medo de "perder o interesse pelo jogo favorito por conta da comunidade" como maior preocupação.
   * Nas entrevistas, João Gabriel confirmou que pessoas desistem de títulos inteiros devido ao ecossistema tóxico, Vanessa mencionou que a toxicidade continuada desestimula sessões e afasta novatos, e Mateus afirmou que a falta de controle sobre a comunidade pode acarretar o encerramento do ciclo de vida dos jogos.
@@ -57,6 +57,6 @@ Abaixo estão as hipóteses estruturais formuladas na etapa inicial do projeto c
 
 ## 2. Matriz CSD Consolidada
 
-| 🚩 Certezas | 💡 Suposições | ❓ Dúvidas Levantadas |
+|  Certezas |  Suposições |  Dúvidas Levantadas |
 | :--- | :--- | :--- |
 | • A toxicidade, agressões em chat de voz e preconceitos (com destaque ao machismo) são problemas crônicos e generalizados.<br><br>• O mecanismo padrão de defesa adotado é silenciar o chat/voz e se isolar, sacrificando a comunicação cooperativa.<br><br>• Desacredito completo na moderação nativa e forte indignação com a sensação de impunidade pós-denúncia.<br><br>• Dificuldade crítica de sincronia de horários e falta de amigos disponíveis para fechar grupos.<br><br>• A hostilidade constante desmotiva os jogadores, força pausas de vários dias e leva à evasão da base de usuários. | *Nenhuma suposição pendente.*<br><br>Todas as hipóteses estruturais levantadas no Mapa de Empatia e no Canvas foram testadas e validadas pelos dados coletados. | *Nenhuma dúvida estrutural pendente.*<br><br>As dores, comportamentos e fricções do usuário estão devidamente mapeados e documentados. |
