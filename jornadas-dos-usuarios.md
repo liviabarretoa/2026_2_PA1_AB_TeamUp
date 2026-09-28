@@ -40,7 +40,7 @@
 * **Jornada de Usuário:** Lucas, o jogador competitivo cansado de filas solo – Cadastrar e manter um perfil gamer preciso (jogos, elo, horários e estilo) para garantir matchs de qualidade e evitar toxicidade no MVP.
 * **Passo:** Acessar área do jogador e iniciar a configuração do Perfil Gamer.
 
-#### 📝 Geral
+#### Geral
 * **Produto:** Team Up
 * **Título:** Acessar área do jogador e iniciar cadastro do Perfil Gamer
 * **Narrativa:** 
