@@ -37,7 +37,7 @@
 ## Seção Faz
 **O que o produto faz (suas funcionalidades principais e benefícios).**
 
-> ** Perguntas norteadoras:**
+> **Perguntas norteadoras:**
 > * Quais são os resultados concretos que entrega ao usuário?
 > * Que atividades centrais ele possibilita?
 > * Quais problemas ele ajuda a resolver?
