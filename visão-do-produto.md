@@ -4,9 +4,9 @@
 
 * 🎯 **Para** jogadores de games competitivos online (como Valorant, LoL, CS, CoD, etc.)
 * ⚠️ **Que** sofrem com a toxicidade na fila solo (*solo queue*), sentem ansiedade ou medo de usar a comunicação por voz e têm dificuldade de encontrar parceiros de equipe saudáveis e alinhados.
-* 
+  
 * 💡 **O** Team Up:
-* 
+  
 * 📱 **É um** aplicativo web e mobile de matchmaking e formação de equipes gamers.
 * 🤝 **Que** conecta pessoas com interesses, jogos, elos e horários em comum por meio de busca com afinidade e chat pré-jogo.
 * 🔄 **Diferente de** depender do emparelhamento aleatório do próprio jogo ou de grupos genéricos e desorganizados em redes sociais,
