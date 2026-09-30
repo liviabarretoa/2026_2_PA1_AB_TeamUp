@@ -36,23 +36,36 @@ Definição clara das fronteiras e do propósito do sistema para manter o alinha
 
 | Quadrante | O que o usuário vivencia |
 | :--- | :--- |
-| **O que ele pensa e sente?** | *"Quero subir de elo sem estresse; detesto perder tempo com quem desiste no primeiro erro."* |
-| **O que ele escuta?** | Reclamações constantes sobre trolls na fila solo e amigos reclamando de horários incompatíveis. |
-| **O que ele vê?** | Telas de derrota por abandono, composições de time sem suporte e servidores de Discord caóticos. |
-| **O que ele diz e faz?** | Tenta passar chamadas táticas (*calls*), procura duos em fóruns aleatórios e para de jogar após partidas tóxicas. |
-| **Dores do Usuário** | Queda de pontuação (PDL), desgaste mental e sensação de impotência nas ranqueadas. |
-| **Ganhos Almejados** | Vitórias coordenadas, comunicação limpa por voz e evolução consistente de elo. |
+| **O que ele pensa e sente?** | Sente-se desmotivado para jogar e para tentar criar uma relação de amizade com outros jogadores. |
+| **O que ele ouve?** | Ouve críticas recorrentes sobre o mau funcionamento e a ineficiência do sistema de denúncias e banimentos dentro do jogo. |
+| **O que ele vê?** | Considera a comunidade muito grande e, por isso, percebe que ela pode ser bastante tóxica. |
+| **O que ele fala e faz?** | Evita ativamente interagir com jogadores que não são seus conhecidos. |
+| **Dores do Usuário** | Afasta-se da comunidade e bloqueia a comunicação no jogo, mesmo quando ela é necessária para a partida, se sente estressado e ansioso. |
+| **Ganhos Almejados** | Conseguir encontrar pessoas compatíveis e formar laços, se sentir seguro dentro da comunidade. |
 
 ---
 
 ## 💼 Jobs To Be Done (JTBD)
 
-> **Declaração Central:**  
-> *"Quando estou prestes a iniciar minha sessão diária de partidas ranqueadas, eu quero encontrar rapidamente um duo alinhado à minha rota, maturidade e estilo de comunicação, para que eu possa evoluir de elo com foco, consistência e sem estresse com toxicidade."*
+> **Declaração Central:**
+> *"Quando estou prestes a iniciar minha sessão diária de partidas, eu quero encontrar um duo ou time alinhado à minha rota, maturidade e estilo de comunicação, para que eu possa me divertir jogando, sem me estressar com toxicidade."*
 
-* **Dimensão Funcional:** Encontrar um parceiro do mesmo elo que jogue na função complementar (ex.: Suporte buscando Atirador) em menos de 5 minutos.
-* **Dimensão Emocional:** Sentir-se confiante, acolhido e com o controle da experiência de jogo.
-* **Dimensão Social:** Ser reconhecido na comunidade como um parceiro tático confiável e construir uma rede sólida de duos.
+O TeamUp resolve as dores e necessidades da comunidade gamer, criando um ecossistema focado no respeito mútuo, ideal tanto para sessões de jogo casuais e descontraídas quanto para o cenário competitivo.
+
+*   **Dimensão Funcional (O que o usuário precisa fazer):**
+    *   Encontrar pessoas para jogar e adicionar horários disponíveis para jogar.
+    *   Filtrar parceiros por estilo de jogo, nível de habilidade, gênero, etc.
+    *   Acessar um lugar que tenha uma boa avaliação de conduta dos jogadores e autenticar a idade dos usuários.
+
+*   **Dimensão Emocional (Como o usuário quer se sentir):**
+    *   Sentir-se confiante, acolhido e com o controle da experiência de jogo.
+    *   Sentir tranquilidade por ter informações confiáveis e atualizadas do jogador, além de controle sobre a reputação para garantir matches mais adequados.
+    *   Sentir segurança e confiança ao jogar e interagir com outras pessoas que mantenham o respeito e a harmonia durante as partidas.
+
+*   **Dimensão Social (Como o usuário quer ser visto):**
+    *   Ser reconhecido na comunidade como um parceiro tático confiável e construir uma rede sólida de duos.
+    *   Ser reconhecido como confiável pelo comportamento saudável e ser recomendado por ter cumprido as regras.
+    *   Ser visto como alguém valorizado por dar visibilidade ao aplicativo para mais visitas.
 
 ---
 
