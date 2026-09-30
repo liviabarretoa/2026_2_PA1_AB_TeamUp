@@ -106,8 +106,6 @@ O modelo de negócios do **TeamUp** foi estruturado para ser sustentável, escal
 
 *   **Relacionamento com Clientes:** Baseado em um sistema comunitário de reputação com moderação ativa. Foco total no autosserviço (navegação por *cards*) e incentivo constante à cultura de respeito mútuo.
 
-*   **Fontes de Receita:** Modelo Freemium, sendo gratuito para buscas básicas, com a opção de um plano Pro oferecendo estatísticas avançadas, filtros ilimitados e badges exclusivas. Complementado por anúncios segmentados não invasivos e microtransações cosméticas para o perfil.
-
 *   **Recursos-Chave:** Algoritmo proprietário de compatibilidade de duos, banco de dados seguro e integração com APIs oficiais de jogos. Contamos também com uma equipe centralizada de Devs, UI/UX e Moderação.
 
 *   **Atividades-Chave:** Desenvolvimento contínuo, aprimoramento constante do algoritmo de pareamento e moderação comunitária (incluindo proteção contra *review bombing* e contas falsas).
@@ -115,6 +113,17 @@ O modelo de negócios do **TeamUp** foi estruturado para ser sustentável, escal
 *   **Parcerias-Chave:** Integrações estratégicas com Discord Developer Platform, Riot Games API, Steam Developer e colaboração com ligas amadoras de eSports. Parcerias sociais com coletivos gamers e criadores de conteúdo (streamers) focados em ambientes saudáveis.
 
 *   **Estrutura de Custos:** Manutenção de servidores em nuvem, banco de dados em tempo real e infraestrutura de rede. Custos adicionais com taxas de lojas de aplicativos (Apple/Google), marketing de aquisição e equipe de suporte.
+
+### Modelo de Valores e Monetização
+
+Nossa estratégia de receita garante que a segurança e o pareamento justo jamais sejam bloqueados por um *paywall*.
+
+*   **Acesso Gratuito:** Todas as funções essenciais sem custo — filtrar parceiros, visualizar *Player Cards*, enviar convites, chat pré-jogo e sistema de avaliação de conduta. Nenhuma barreira para encontrar um time seguro.
+*   **Plano Premium (Assinatura):** Filtros avançados ilimitados, destaque do perfil no feed, estatísticas de compatibilidade detalhadas e histórico completo de avaliações. Facilita a visibilidade, mas não dá nenhuma vantagem tática.
+*   **Microtransações Cosméticas:** Bordas personalizadas no card de perfil, temas temáticos e insígnias visuais. Opcional, puramente estético e sem impacto no gameplay.
+*   **Anúncios Segmentados:** Banners não invasivos de periféricos gaming, eventos de eSports ou jogos indie. Discretos e relevantes, não prejudicam a experiência.
+
+> **Sem Pay-to-Win:** O acesso às funções críticas de segurança (reputação, filtros de conduta, avaliações) é e sempre será gratuito, garantindo que ninguém precise pagar para jogar em um ambiente seguro.
 ---
 
 ## Value Proposition Canvas
