@@ -96,68 +96,104 @@ Abaixo detalhamos como conectamos os problemas vividos pela comunidade com as no
 
 ## 📊 Business Model Canvas
 
-* **Proposta de Valor:** Matchmaking pré-jogo baseado em sinergia de funções, comportamento verificado e integração de voz.
-* **Segmento de Clientes:** Gamers competitivos de títulos em equipe (League of Legends, Valorant, CS2, Overwatch 2).
-* **Canais:** Web App responsivo, integração nativa via bot de Discord e divulgação em comunidades competitivas.
-* **Relacionamento:** Sistema comunitário de reputação (*Fair Play Karma*) com moderação ativa.
-* **Fontes de Receita:** Modelo Freemium (gratuito para buscas básicas; plano Pro com estatísticas avançadas, filtros ilimitados e badges exclusivas).
-* **Recursos-Chave:** Algoritmo proprietário de compatibilidade de duos, banco de dados e APIs oficiais de jogos.
-* **Atividades-Chave:** Desenvolvimento contínuo, aprimoramento do algoritmo e moderação comunitária.
-* **Parcerias-Chave:** Discord Developer Platform, Riot Games API, Steam Developer e ligas amadoras de eSports.
-* **Estrutura de Custos:** Servidores em nuvem, banco de dados em tempo real e infraestrutura de rede.
+O modelo de negócios do **TeamUp** foi estruturado para ser sustentável, escalável e centrado na experiência da comunidade (abrangendo desde os jogadores focados em diversão casual até os mais competitivos).
 
+*   **Proposta de Valor:** Matchmaking pré-jogo baseado em sinergia de funções, comportamento verificado e integração de voz. Oferecemos um ambiente seguro e previsível (com filtros exclusivos, como o de gênero) que reduz drasticamente o assédio e a toxicidade.
+*   **Segmentos de Clientes:** Gamers casuais e competitivos de títulos em equipe (como League of Legends, Valorant, CS2 e Overwatch 2) que jogam sozinhos (*solo queue*) e sofrem com a aleatoriedade de parceiros.
+*   **Canais:** Plataformas de acesso via Web App responsivo, integração nativa via bot de Discord e divulgação orgânica em comunidades. Expansão via aplicativos mobile (Android e iOS) e marketing de influência.
+*   **Relacionamento com Clientes:** Baseado em um sistema comunitário de reputação com moderação ativa. Foco total no autosserviço (navegação por *cards*) e incentivo constante à cultura de respeito mútuo.
+*   **Fontes de Receita:** Modelo Freemium, sendo gratuito para buscas básicas, com a opção de um plano Pro oferecendo estatísticas avançadas, filtros ilimitados e badges exclusivas. Complementado por anúncios segmentados não invasivos e microtransações cosméticas para o perfil.
+*   **Recursos-Chave:** Algoritmo proprietário de compatibilidade de duos, banco de dados seguro e integração com APIs oficiais de jogos. Contamos também com uma equipe centralizada de Devs, UI/UX e Moderação.
+*   **Atividades-Chave:** Desenvolvimento contínuo, aprimoramento constante do algoritmo de pareamento e moderação comunitária (incluindo proteção contra *review bombing* e contas falsas).
+*   **Parcerias-Chave:** Integrações estratégicas com Discord Developer Platform, Riot Games API, Steam Developer e colaboração com ligas amadoras de eSports. Parcerias sociais com coletivos gamers e criadores de conteúdo (streamers) focados em ambientes saudáveis.
+*   **Estrutura de Custos:** Manutenção de servidores em nuvem, banco de dados em tempo real e infraestrutura de rede. Custos adicionais com taxas de lojas de aplicativos (Apple/Google), marketing de aquisição e equipe de suporte.
 ---
 
 ## 💎 Value Proposition Canvas
 
-### 1. Perfil do Cliente
-* **Tarefas do Cliente:** Encontrar parceiros compatíveis no final do dia; coordenar comunicação por voz; subir de elo nas ranqueadas.
-* **Dores:** Perder partidas por trolls ou desistências na fila solo; parceiros que não usam microfone; disputa pela mesma rota.
-* **Ganhos:** Comunicação tática limpa; vitórias consistentes; entrosamento sem desgaste mental.
+### 👤 1. Perfil do Cliente
 
-### 2. Mapa de Valor
-* **Produtos e Serviços:** Plataforma web de matchmaking com mural de *Player Cards* e filtros em tempo real.
-* **Aliviadores de Dores:** Verificação de reputação para afastar jogadores tóxicos; filtros estritos de função e elo.
-* **Criadores de Ganho:** Conexão direta com sala de voz do Discord; sistema de avaliações mútuas pós-jogo.
+*   **Tarefas do Cliente:** Encontrar parceiros com uma *vibe* parecida, garantir uma comunicação clara por voz e jogar sem estresse com pessoas que curtem o mesmo ritmo.
+*   **Dores:** Entrar em partidas com jogadores tóxicos, lidar com parceiros que desaparecem no meio do jogo (AFK), sentir-se isolado ou desconfortável e sofrer ansiedade antes de jogar com desconhecidos.
+*   **Ganhos:** Jogar de forma relaxada, encontrar pessoas que priorizam o respeito, construir amizades que duram e subir de elo sem medo.
 
+---
+
+### 🗺️ 2. Mapa de Valor
+
+*   **Produtos e Serviços:** Plataforma que conecta jogadores por compatibilidade, *Player Cards* com filtros customizáveis (elo, função, comunicação e valores compartilhados) e acesso a uma sala de voz direta.
+*   **Aliviadores de Dores:** Sistema de reputação comunitária que identifica quem é respeitoso, filtros que protegem ativamente contra comportamentos tóxicos e moderação ativa da comunidade.
+*   **Criadores de Ganho:** *Match* com pessoas que compartilham dos mesmos valores, sistema de avaliação mútua que celebra a boa conduta e um espaço seguro para conversar antes de iniciar a partida.
 ---
 
 ## 🚀 Jornada do Usuário e Histórias (MVP)
 
 A jornada principal do produto foi estruturada do onboarding até a avaliação final:
-
 1. **Cadastro e Perfil:** Vinculação de ID do jogo, seleção de elo, horários habituais e funções principais.
 2. **Exploração de Parceiros:** Aplicação de filtros táticos para visualizar o mural de *Player Cards*.
 3. **Conexão e Partida:** Envio de solicitação, aceite mútuo e direcionamento automático para a sala de voz.
 4. **Ciclo de Feedback:** Avaliação rápida do comportamento do parceiro após o término da sessão.
 
-### Histórias de Usuário em BDD (Behavior-Driven Development)
+---
 
-#### US01: Filtragem por Função e Elo
-> **Como** jogador competitivo  
-> **Quero** filtrar perfis por elo compatível e função complementar  
+### 🗺️ Jornada Prática
+**Persona:** Marina, uma jogadora que quer curtir o jogo e evoluir no seu próprio ritmo após o trabalho, mas está cansada da toxicidade da fila solo e não quer perder tempo com interações desgastantes.
+**Objetivo:** Encontrar um parceiro (Duo) compatível para jogar partidas de Valorant hoje à noite, confirmando a boa reputação da pessoa para garantir uma sessão sem estresse.
+
+**1. Buscar jogadores por jogo, nível e disponibilidade**
+*   **Descrição:** Aplicar filtros na plataforma para encontrar jogadores de Valorant no mesmo nível de habilidade, disponíveis no turno da noite, e ativar o filtro de gênero (ex: buscar apenas mulheres ou pessoas com perfil verificado).
+*   **Sentimento:** "Quero achar alguém com a mesma vibe e no mesmo horário, sem dor de cabeça."
+
+**2. Abrir o perfil do jogador (Match)**
+*   **Descrição:** Selecionar um dos perfis sugeridos para ver detalhes de estilo de gameplay, faixa etária e biografia.
+*   **Sentimento:** "Preciso ver se o estilo e os objetivos dessa pessoa batem com os meus."
+
+**3. Ver sistema de reputação e avaliações**
+*   **Descrição:** Checar a nota (0 a 5 estrelas) e ler os feedbacks descritivos deixados por parceiros anteriores.
+*   **Sentimento:** "Como ela tem 4.8 estrelas e dizem que a comunicação é ótima e sem toxicidade, sinto segurança para mandar o convite."
+
+**4. Dar o "Match" / Enviar convite de conexão**
+*   **Descrição:** Clicar em conectar e abrir o chat interno do TeamUp para trocar uma ideia rápida antes do jogo.
+*   **Sentimento:** "Deu match! Agora é só combinar as posições e passar o nick."
+
+**5. Adicionar no jogo e iniciar a call**
+*   **Descrição:** Copiar o Riot ID, adicionar no jogo e entrar em um canal de voz de forma segura.
+*   **Sentimento:** "Pronto, dupla formada com segurança. Vamos jogar!"
+
+---
+
+### 📖 Histórias de Usuário em BDD (Behavior-Driven Development)
+
+#### US01: Filtragem por Função e Nível
+> **Como** jogador 
+> **Quero** filtrar perfis por elo compatível, gênero ou função complementar  
 > **Para que** eu não entre em partidas com choque de rotas ou disparidade de nível técnico.
 
-```gherkin
-Cenário: Filtro bem-sucedido de parceiro para Duo
-  Dado que estou logado na plataforma TeamUp com o perfil "Elo Ouro - Função Suporte"
-  Quando eu aplico o filtro de busca por elo "Ouro" e função "Atirador (ADC)"
-  Então o sistema deve exibir apenas perfis com elo compatível que joguem de Atirador
-  E cada card deve indicar o nível de reputação e preferência de comunicação por voz.
-```
+#### US02: Acessar área do jogador e iniciar cadastro do Perfil Gamer
+**Jornada de Usuário:** Lucas, um jogador cansado de filas solo aleatórias – Cadastrar e manter um perfil gamer preciso (jogos, nível, horários e estilo) para garantir matchs de qualidade e evitar companhias tóxicas.
 
-#### US02: Avaliação Mútua Pós-Partida
-> **Como** usuário que concluiu uma sessão de jogos  
-> **Quero** avaliar o comportamento e a comunicação do meu parceiro  
-> **Para que** a comunidade mantenha um índice de confiabilidade saudável e transparente.
+> **Como** Lucas, um jogador que busca times parceiros e sem toxicidade  
+> **Eu quero** acessar a área de Perfil e iniciar a configuração das minhas preferências  
+> **Para** começar rapidamente a ser pareado com outros jogadores compatíveis e jogar em um ambiente seguro.
 
-```gherkin
-Cenário: Envio de avaliação positiva pós-jogo
-  Dado que eu finalizei uma partida com o duo indicado pelo TeamUp
-  Quando eu selecionar a opção "Recomendo" e marcar a tag "Boa Comunicação"
-  Então o índice de reputação do jogador deve ser incrementado
-  E essa informação deve ser refletida no perfil público dele.
-```
+*   **Prioridade:** Alta (Essencial para habilitar o core business de matchmaking)
+*   **Tags:** `onboarding`, `perfil`, `matchmaking`, `mvp`
+
+**Orientações de Tela & Regras de Negócio (Resumo):**
+*   **Checklist de Progresso:** "Jogos e Contas", "Nível", "Horários", "Estilo de Jogo".
+*   **Chamadas para Ação (CTAs):** "Criar Perfil" ou "Completar Perfil".
+*   **Regra Core:** O perfil mínimo exige 1 jogo selecionado, 1 Nickname/ID correspondente e 1 turno de disponibilidade. Sem isso, o acesso à tela de Matchmaking é bloqueado.
+
+**Critérios de Aceitação (BDD):**
+> **Cenário 1: Acesso inicial sem Perfil cadastrado**  
+> **Dado que** estou autenticado na plataforma e não possuo preferências configuradas  
+> **Quando** eu acesso a Área do Jogador e clico em "Criar Perfil"  
+> **Então** o sistema deve abrir o fluxo de onboarding no primeiro passo (Seleção de Jogos).
+
+> **Cenário 2: Acesso com cadastro incompleto**  
+> **Dado que** possuo um perfil com cadastro incompleto (ex: escolhi os jogos, mas não informei os horários)  
+> **Quando** eu acesso a Área do Jogador e clico em "Completar Perfil"  
+> **Então** o sistema deve me levar automaticamente para a etapa pendente.
 
 ---
 
@@ -173,8 +209,8 @@ Cenário: Envio de avaliação positiva pós-jogo
 
 ## 👥 Equipe do Projeto
 
-* **Lívia Barreto**
-* **Rômulo Azevedo**
-* **Rafaele Gomes**
-* **Manu**
+* **Lívia Maria Barreto Albuquerque / 2526422**
+* **Manuelly Rodrigues Pessoa / 2522733**
+* **Maria Rafaele Gomes de Araújo / 2618240**
+* **Rômulo Azevedo Montenegro Neto / 2526043**
 * *Projeto acadêmico desenvolvido na Universidade de Fortaleza (UNIFOR).*
