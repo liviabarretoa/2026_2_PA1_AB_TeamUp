@@ -119,8 +119,11 @@ O modelo de negócios do **TeamUp** foi estruturado para ser sustentável, escal
 Nossa estratégia de receita garante que a segurança e o pareamento justo jamais sejam bloqueados por um *paywall*.
 
 *   **Acesso Gratuito:** Todas as funções essenciais sem custo — filtrar parceiros, visualizar *Player Cards*, enviar convites, chat pré-jogo e sistema de avaliação de conduta. Nenhuma barreira para encontrar um time seguro.
+
 *   **Plano Premium (Assinatura):** Filtros avançados ilimitados, destaque do perfil no feed, estatísticas de compatibilidade detalhadas e histórico completo de avaliações. Facilita a visibilidade, mas não dá nenhuma vantagem tática.
+
 *   **Microtransações Cosméticas:** Bordas personalizadas no card de perfil, temas temáticos e insígnias visuais. Opcional, puramente estético e sem impacto no gameplay.
+
 *   **Anúncios Segmentados:** Banners não invasivos de periféricos gaming, eventos de eSports ou jogos indie. Discretos e relevantes, não prejudicam a experiência.
 
 > **Sem Pay-to-Win:** O acesso às funções críticas de segurança (reputação, filtros de conduta, avaliações) é e sempre será gratuito, garantindo que ninguém precise pagar para jogar em um ambiente seguro.
