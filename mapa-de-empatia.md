@@ -2,7 +2,7 @@
 
 > Mapeamento de percepções, sentimentos e atitudes do usuário em relação ao ecossistema atual de jogos online.
 
-<img src="[./imagens/foto.png](https://umanitar.com/wp-content/uploads/2023/05/Mapa_da_Empatia_eMeCF-600x418.png)" alt="Imagem do Mapa de Empatia" width="400">
+<img src="https://umanitar.com/wp-content/uploads/2023/05/Mapa_da_Empatia_eMeCF-600x418.png" alt="Imagem do Mapa de Empatia" width="400">
 ---
 
 ## O que o jogador VÊ?
