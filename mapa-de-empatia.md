@@ -2,7 +2,7 @@
 
 > Mapeamento de percepções, sentimentos e atitudes do usuário em relação ao ecossistema atual de jogos online.
 
-<img src="https://api-blog.rdstation.com/wp-content/uploads/2024/09/AD_4nXfc6i-zrKVe1hVP6DdQYKLhYdvkXmYZNVGjWH7Jt_kGcDeq5j5R5s_DgWOVi11_yh2aMUq5sURYi61bHNSl5QguWlNpNPs65l0nVxwByVuXQAMtNWCtriGFHak-3rp_QoD04pbbDmwJJP0UE-VmmAYxBhAkeyov0UK4Jgrp7K3pLp-BW8dg.jpg" alt="Imagem RD Station" width="400">
+<img src="https://api-blog.rdstation.com/wp-content/uploads/2024/09/AD_4nXfc6i-zrKVe1hVP6DdQYKLhYdvkXmYZNVGjWH7Jt_kGcDeq5j5R5s_DgWOVi11_yh2aMUq5sURYi61bHNSl5QguWlNpNPs65l0nVxwByVuXQAMtNWCtriGFHak-3rp_QoD04pbbDmwJJP0UE-VmmAYxBhAkeyov0UK4Jgrp7K3pLp-BW8dg.jpg" alt="Imagem RD Station" width="1488" height="1052">
 
 ---
 
