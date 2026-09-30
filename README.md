@@ -75,7 +75,7 @@ O **TeamUp** foi estruturado para resolver as principais frustrações dos jogad
 
 Abaixo detalhamos como conectamos os problemas vividos pela comunidade com as nossas soluções:
 
-### 🛑 O Problema vs. 💡 A Solução
+### O Problema vs. A Solução
 
 *   **Fila Solo Caótica & Dependência do Aleatório:**
     *   *A Causa:* Os algoritmos oficiais de pareamento focam exclusivamente no tempo de fila e no nível técnico/elo bruto, ignorando totalmente o temperamento, a afinidade interpessoal e o objetivo de jogo.
