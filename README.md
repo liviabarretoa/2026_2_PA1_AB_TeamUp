@@ -71,11 +71,26 @@ O TeamUp resolve as dores e necessidades da comunidade gamer, criando um ecossis
 
 ## 🧩 Problem-Solution Fit Canvas
 
-| Problema Identificado | Causa Raiz | Solução do TeamUp | Métrica de Sucesso |
-| :--- | :--- | :--- | :--- |
-| **Fila Solo Caótica** | Algoritmos oficiais priorizam apenas tempo de fila e elo bruto, ignorando temperamento. | Pareamento por histórico de conduta e reputação avaliada por outros jogadores. | Redução de 80% nos relatos de toxicidade nos grupos formados. |
-| **Incompatibilidade de Rota** | Dois jogadores que usam a mesma posição caem juntos e disputam espaço. | Filtros estritos por função primária e secundária antes de iniciar a busca. | 100% de compatibilidade nas funções dos times criados. |
-| **Comunicação Falha** | Falta de coordenação por voz antes do início da partida. | Integração nativa com Discord API para criação direta de sala privativa de voz. | Menos de 2 minutos para conectar a chamada após o match. |
+O **TeamUp** foi estruturado para resolver as principais frustrações dos jogadores de jogos online. Entendemos que a diversão pode ser arruinada tanto em partidas competitivas quanto nas casuais devido à dependência de filas aleatórias (*solo queue*) e ao comportamento hostil.
+
+Abaixo detalhamos como conectamos os problemas vividos pela comunidade com as nossas soluções:
+
+### 🛑 O Problema vs. 💡 A Solução
+
+*   **Fila Solo Caótica & Dependência do Aleatório:**
+    *   *A Causa:* Os algoritmos oficiais de pareamento focam exclusivamente no tempo de fila e no nível técnico/elo bruto, ignorando totalmente o temperamento, a afinidade interpessoal e o objetivo de jogo.
+    *   *A Solução do TeamUp:* Pareamento baseado no histórico de conduta e na reputação do usuário, a qual é avaliada ativamente por outros jogadores da comunidade.
+    *   *Métrica de Sucesso:* Redução de 80% nos relatos de toxicidade nos grupos formados pela plataforma.
+
+*   **Incompatibilidade no Jogo e Falta de Sincronia:**
+    *   *A Causa:* É comum dois jogadores que usam a mesma posição caírem juntos e disputarem espaço. Além disso, a falta de sincronia de horários faz com que o jogador perca tempo procurando companhia no momento em que está livre.
+    *   *A Solução do TeamUp:* Filtros estritos por função primária e secundária antes de iniciar a busca, além de filtros por horários, estilo de jogo e nível de habilidade.
+    *   *Métrica de Sucesso:* 100% de compatibilidade nas funções (rotas) dos times criados.
+
+*   **Comunicação Falha, Assédio e Anonimato:**
+    *   *A Causa:* Falta de coordenação por voz antes do início das partidas. Pior do que isso, o anonimato nos jogos gera impunidade para comportamentos tóxicos, o que afeta especialmente as mulheres, que evitam se comunicar por medo de sofrer assédio e machismo.
+    *   *A Solução do TeamUp:* Um sistema bilateral de reputação (0 a 5 estrelas) com recortes e filtros de segurança focados em gênero. Além disso, o aplicativo conta com integração nativa com a API do Discord para a criação direta de salas privativas de voz.
+    *   *Métrica de Sucesso:* Menos de 2 minutos para conectar os jogadores em uma chamada de voz após o match.
 
 ---
 
