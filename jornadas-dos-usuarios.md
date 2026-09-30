@@ -2,7 +2,7 @@
 
 ## Proto-persona
 
-<img width="2000" height="1414" alt="Carlos" src="https://github.com/user-attachments/assets/0cbf2053-1dc7-494c-89d3-65c392c5d884" />
+<img width="800" alt="Carlos" src="https://github.com/user-attachments/assets/0cbf2053-1dc7-494c-89d3-65c392c5d884" />
 
 ## Jornada 1
 **Persona:** Marina, a jogadora focada que quer subir de elo após o trabalho, mas está cansada da toxicidade da fila solo e não quer perder tempo com trolls.  
