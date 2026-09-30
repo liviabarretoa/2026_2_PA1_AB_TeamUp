@@ -9,21 +9,6 @@
 
 ---
 
-## 📌 Documentação do Projeto
-
-Abaixo estão os documentos estratégicos e de pesquisa que fundamentam o desenvolvimento do Team Up:
-
-* 📄 [Visão do Produto e Escopo (É/Não É)](#visão-do-produto-e-escopo-énão-é)
-* 📄 [Matriz CSD & Mapa de Empatia](#matriz-csd--mapa-de-empatia)
-* 📄 [Jobs To Be Done (JTBD)](#jobs-to-be-done-jtbd)
-* 📄 [Problem-Solution Fit Canvas](#problem-solution-fit-canvas)
-* 📄 [Business Model Canvas](#business-model-canvas)
-* 📄 [Value Proposition Canvas](#value-proposition-canvas)
-* 📄 [Jornada do Usuário e Histórias (MVP)](#jornada-do-usuário-e-histórias-mvp)
-* 📄 [Roadmap Estratégico](#roadmap-estratégico)
-
----
-
 ## 🎯 Visão do Produto e Escopo (É/Não É)
 
 Definição clara das fronteiras e do propósito do sistema para manter o alinhamento da equipe de engenharia e evitar desvios de escopo (*scope creep*).
