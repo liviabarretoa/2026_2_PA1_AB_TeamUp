@@ -1,4 +1,4 @@
-# Team Up
+# Team Up!
 > **Encontre seu duo ou squad ideal e jogue sem medo de toxicidade.**
 
 ---
