@@ -1,9 +1,9 @@
 # TeamUp — Plataforma de Matchmaking 
 
 ![Status](https://img.shields.io/badge/Status-Em_Desenvolvimento-blue?style=for-the-badge)
-![Foco](https://img.shields.io/badge/Foco-eSports_%26_Ranked-orange?style=for-the-badge)
+![Foco](https://img.shields.io/badge/Foco-Casual_e_Ranked-orange?style=for-the-badge)
 ![Metodologia](https://img.shields.io/badge/Metodologia-BDD_%26_Discovery-green?style=for-the-badge)
-![Curso](https://img.shields.io/badge/Engenharia_de_Software-UNIFOR-002B49?style=for-the-badge)
+![Curso](https://img.shields.io/badge/Desenvolvimento_de_Software-UNIFOR-002B49?style=for-the-badge)
 
 > Conectando jogadores (casuais ou competitivos) por sinergia comportamental, funções complementares e horários compatíveis. O fim da roleta-russa da fila solo (*Solo Queue*).
 
