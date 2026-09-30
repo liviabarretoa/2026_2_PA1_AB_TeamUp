@@ -11,12 +11,12 @@
 
 ### 2. Abrir o perfil do jogador (Match)
 * **Descrição:** Selecionar um dos perfis sugeridos nos resultados para ver detalhes de estilo de gameplay (ex: se joga de Suporte ou Duelista), faixa etária e biografia.
-* **Sentimento do usuário:** Preciso ver se o estilo de jogo dessa pessoa complementa o meu e se a vibe bate.
+* **Sentimento do usuário:** Preciso ver se o estilo de jogo dessa pessoa complementa o meu.
 * **Touchpoint:** Tela: Perfil do Jogador.
 
 ### 3. Ver sistema de reputação e avaliações
 * **Descrição:** Checar a nota (0 a 5 estrelas) e ler os feedbacks descritivos deixados por pessoas que já jogaram com ela anteriormente.
-* **Sentimento do usuário:** Legal, ela tem 4.8 estrelas e dizem que tem uma comunicação ótima e não dá "rage". Sinto segurança para mandar o convite.
+* **Sentimento do usuário:** Como ela tem 4.8 estrelas e dizem que tem uma comunicação ótima e não é tóxica, sinto segurança para mandar o convite.
 * **Touchpoint:** Seção: Reputação & Reviews (na página de Perfil do Jogador).
 
 ### 4. Dar o "Match" / Enviar convite de conexão
@@ -26,7 +26,7 @@
 
 ### 5. Adicionar no jogo e iniciar a call
 * **Descrição:** Copiar o Riot ID (ou nick de outro jogo) fornecido no chat e adicionar no cliente do jogo, além de entrar em um canal de voz (Discord ou chat de voz do próprio jogo) de forma segura.
-* **Sentimento do usuário:** Pronto, time formado com segurança. Bora puxar a partida!
+* **Sentimento do usuário:** Pronto, time formado com segurança. Vamos iniciar a partida.
 * **Touchpoint:** Ação: Copiar Nick/ID e integração externa (Abrir Jogo / Discord).
 
 ---
