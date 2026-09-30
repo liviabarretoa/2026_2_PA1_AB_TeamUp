@@ -99,13 +99,21 @@ Abaixo detalhamos como conectamos os problemas vividos pela comunidade com as no
 O modelo de negócios do **TeamUp** foi estruturado para ser sustentável, escalável e centrado na experiência da comunidade (abrangendo desde os jogadores focados em diversão casual até os mais competitivos).
 
 *   **Proposta de Valor:** Matchmaking pré-jogo baseado em sinergia de funções, comportamento verificado e integração de voz. Oferecemos um ambiente seguro e previsível (com filtros exclusivos, como o de gênero) que reduz drasticamente o assédio e a toxicidade.
-*   **Segmentos de Clientes:** Gamers casuais e competitivos de títulos em equipe (como League of Legends, Valorant, CS2 e Overwatch 2) que jogam sozinhos (*solo queue*) e sofrem com a aleatoriedade de parceiros.
+
+*   **Segmentos de Clientes:** Gamers casuais e competitivos de títulos em equipe (como League of Legends, Valorant, CS2 ou Overwatch 2) que jogam sozinhos (*solo queue*) e sofrem com a aleatoriedade de parceiros.
+
 *   **Canais:** Plataformas de acesso via Web App responsivo, integração nativa via bot de Discord e divulgação orgânica em comunidades. Expansão via aplicativos mobile (Android e iOS) e marketing de influência.
+
 *   **Relacionamento com Clientes:** Baseado em um sistema comunitário de reputação com moderação ativa. Foco total no autosserviço (navegação por *cards*) e incentivo constante à cultura de respeito mútuo.
+
 *   **Fontes de Receita:** Modelo Freemium, sendo gratuito para buscas básicas, com a opção de um plano Pro oferecendo estatísticas avançadas, filtros ilimitados e badges exclusivas. Complementado por anúncios segmentados não invasivos e microtransações cosméticas para o perfil.
+
 *   **Recursos-Chave:** Algoritmo proprietário de compatibilidade de duos, banco de dados seguro e integração com APIs oficiais de jogos. Contamos também com uma equipe centralizada de Devs, UI/UX e Moderação.
+
 *   **Atividades-Chave:** Desenvolvimento contínuo, aprimoramento constante do algoritmo de pareamento e moderação comunitária (incluindo proteção contra *review bombing* e contas falsas).
+
 *   **Parcerias-Chave:** Integrações estratégicas com Discord Developer Platform, Riot Games API, Steam Developer e colaboração com ligas amadoras de eSports. Parcerias sociais com coletivos gamers e criadores de conteúdo (streamers) focados em ambientes saudáveis.
+
 *   **Estrutura de Custos:** Manutenção de servidores em nuvem, banco de dados em tempo real e infraestrutura de rede. Custos adicionais com taxas de lojas de aplicativos (Apple/Google), marketing de aquisição e equipe de suporte.
 ---
 
