@@ -1,4 +1,4 @@
-# 🎮 TeamUp — Plataforma de Matchmaking 
+# TeamUp — Plataforma de Matchmaking 
 
 ![Status](https://img.shields.io/badge/Status-Em_Desenvolvimento-blue?style=for-the-badge)
 ![Foco](https://img.shields.io/badge/Foco-eSports_%26_Ranked-orange?style=for-the-badge)
@@ -9,7 +9,7 @@
 
 ---
 
-## 🎯 Visão do Produto e Escopo (É/Não É)
+## Visão do Produto e Escopo (É/Não É)
 
 Definição clara das fronteiras e do propósito do sistema para manter o alinhamento da equipe de engenharia e evitar desvios de escopo (*scope creep*):
 
@@ -22,7 +22,7 @@ Definição clara das fronteiras e do propósito do sistema para manter o alinha
 
 ---
 
-## 🧠 Matriz CSD & Mapa de Empatia
+## Matriz CSD & Mapa de Empatia
 
 ### Matriz CSD (Certezas, Suposições e Dúvidas)
 
@@ -45,7 +45,7 @@ Definição clara das fronteiras e do propósito do sistema para manter o alinha
 
 ---
 
-## 💼 Jobs To Be Done (JTBD)
+## Jobs To Be Done (JTBD)
 
 > **Declaração Central:**
 > *"Quando estou prestes a iniciar minha sessão diária de partidas, eu quero encontrar um duo ou time alinhado à minha rota, maturidade e estilo de comunicação, para que eu possa me divertir jogando, sem me estressar com toxicidade."*
@@ -69,7 +69,7 @@ O TeamUp resolve as dores e necessidades da comunidade gamer, criando um ecossis
 
 ---
 
-## 🧩 Problem-Solution Fit Canvas
+## Problem-Solution Fit Canvas
 
 O **TeamUp** foi estruturado para resolver as principais frustrações dos jogadores de jogos online. Entendemos que a diversão pode ser arruinada tanto em partidas competitivas quanto nas casuais devido à dependência de filas aleatórias (*solo queue*) e ao comportamento hostil.
 
@@ -94,7 +94,7 @@ Abaixo detalhamos como conectamos os problemas vividos pela comunidade com as no
 
 ---
 
-## 📊 Business Model Canvas
+## Business Model Canvas
 
 O modelo de negócios do **TeamUp** foi estruturado para ser sustentável, escalável e centrado na experiência da comunidade (abrangendo desde os jogadores focados em diversão casual até os mais competitivos).
 
@@ -117,9 +117,9 @@ O modelo de negócios do **TeamUp** foi estruturado para ser sustentável, escal
 *   **Estrutura de Custos:** Manutenção de servidores em nuvem, banco de dados em tempo real e infraestrutura de rede. Custos adicionais com taxas de lojas de aplicativos (Apple/Google), marketing de aquisição e equipe de suporte.
 ---
 
-## 💎 Value Proposition Canvas
+## Value Proposition Canvas
 
-### 👤 1. Perfil do Cliente
+### 1. Perfil do Cliente
 
 *   **Tarefas do Cliente:** Encontrar parceiros com uma *vibe* parecida, garantir uma comunicação clara por voz e jogar sem estresse com pessoas que curtem o mesmo ritmo.
 *   **Dores:** Entrar em partidas com jogadores tóxicos, lidar com parceiros que desaparecem no meio do jogo (AFK), sentir-se isolado ou desconfortável e sofrer ansiedade antes de jogar com desconhecidos.
@@ -127,14 +127,14 @@ O modelo de negócios do **TeamUp** foi estruturado para ser sustentável, escal
 
 ---
 
-### 🗺️ 2. Mapa de Valor
+### 2. Mapa de Valor
 
 *   **Produtos e Serviços:** Plataforma que conecta jogadores por compatibilidade, *Player Cards* com filtros customizáveis (elo, função, comunicação e valores compartilhados) e acesso a uma sala de voz direta.
 *   **Aliviadores de Dores:** Sistema de reputação comunitária que identifica quem é respeitoso, filtros que protegem ativamente contra comportamentos tóxicos e moderação ativa da comunidade.
 *   **Criadores de Ganho:** *Match* com pessoas que compartilham dos mesmos valores, sistema de avaliação mútua que celebra a boa conduta e um espaço seguro para conversar antes de iniciar a partida.
 ---
 
-## 🚀 Jornada do Usuário e Histórias (MVP)
+## Jornada do Usuário e Histórias (MVP)
 
 A jornada principal do produto foi estruturada do onboarding até a avaliação final:
 1. **Cadastro e Perfil:** Vinculação de ID do jogo, seleção de elo, horários habituais e funções principais.
@@ -144,7 +144,7 @@ A jornada principal do produto foi estruturada do onboarding até a avaliação 
 
 ---
 
-### 🗺️ Jornada Prática
+### Jornada Prática
 **Persona:** Marina, uma jogadora que quer curtir o jogo e evoluir no seu próprio ritmo após o trabalho, mas está cansada da toxicidade da fila solo e não quer perder tempo com interações desgastantes.
 **Objetivo:** Encontrar um parceiro (Duo) compatível para jogar partidas de Valorant hoje à noite, confirmando a boa reputação da pessoa para garantir uma sessão sem estresse.
 
@@ -170,7 +170,7 @@ A jornada principal do produto foi estruturada do onboarding até a avaliação 
 
 ---
 
-### 📖 Histórias de Usuário em BDD (Behavior-Driven Development)
+### Histórias de Usuário em BDD (Behavior-Driven Development)
 
 #### US01: Filtragem por Função e Nível
 > **Como** jogador 
@@ -205,7 +205,7 @@ A jornada principal do produto foi estruturada do onboarding até a avaliação 
 
 ---
 
-## 🗺️ Roadmap Estratégico
+## Roadmap Estratégico
 
 | Fase | Foco Estratégico | Entregáveis Principais |
 | :--- | :--- | :--- |
@@ -215,7 +215,7 @@ A jornada principal do produto foi estruturada do onboarding até a avaliação 
 
 ---
 
-## 👥 Equipe do Projeto
+## Equipe do Projeto
 
 * **Lívia Maria Barreto Albuquerque / 2526422**
 * **Manuelly Rodrigues Pessoa / 2522733**
