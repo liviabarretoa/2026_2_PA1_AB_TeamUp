@@ -1,6 +1,6 @@
 # Business Model Canvas: Team Up
 
----
+
 
 ## 1. Proposta de Valor (*Value Propositions*)
 * **Ambiente seguro e previsível:** Conexão com jogadores verificados por reputação, reduzindo o medo de assédio, ofensas e toxicidade nas partidas.
