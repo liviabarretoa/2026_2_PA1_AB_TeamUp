@@ -9,7 +9,7 @@
 
 ---
 
-## Visão do Produto e Escopo (É/Não É)
+## Visão do Produto e Escopo (É/Não É/Faz/Não Faz)
 
 Definição clara das fronteiras e do propósito do sistema para manter o alinhamento da equipe de engenharia e evitar desvios de escopo (*scope creep*):
 
