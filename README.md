@@ -1,4 +1,4 @@
-# 🎮 TeamUp — Plataforma de Matchmaking Competitivo
+# 🎮 TeamUp — Plataforma de Matchmaking 
 
 ![Status](https://img.shields.io/badge/Status-Em_Desenvolvimento-blue?style=for-the-badge)
 ![Foco](https://img.shields.io/badge/Foco-eSports_%26_Ranked-orange?style=for-the-badge)
