@@ -1,4 +1,4 @@
-# 📊 Business Model Canvas: Team Up
+# Business Model Canvas: Team Up
 
 ---
 
