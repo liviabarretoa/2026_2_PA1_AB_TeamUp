@@ -1,74 +1,119 @@
-# Roadmap Estratégico: Team Up
+## Roadmap Estratégico
+
+### Pilares Estratégicos
+*   **Confiabilidade e Segurança:** Mecanismos de moderação e sistema de reputação mútua para proteger os usuários contra assédio e toxicidade.
+*   **Matchmaking de Precisão:** Descoberta eficiente baseada em critérios técnicos e sociais (jogos, elo, horários, preferência de gênero) para gerar tráfego qualificado.
+*   **Conversão Fim-a-Fim:** Conexão rápida entre o *match* e a partida com integração de chat/voz, reduzindo atrito e filas isoladas.
+*   **Retenção e Recorrência:** Ferramentas de agendamento, notificações relevantes e prova social (avaliações) em um canal único.
+*   **Monetização Progressiva e Escala:** Assinaturas Freemium, microtransações e anúncios segmentados sem prejudicar a segurança e a relevância (Sem *Pay-to-Win*).
+*   **Ciclo Contínuo de Validação:** Instrumentação de dados, testes A/B e loops de feedback com os jogadores.
 
 ---
 
-## Pilares Estratégicos
-* **Segurança e Confiança Comunitária:** Mecanismos de moderação, sistema de reputação mútua (estrelas e *reviews*) e filtros para proteger os usuários contra assédio e toxicidade.
-* **Matchmaking por Afinidade Relevante:** Conexão ágil baseada em critérios técnicos e sociais (jogos, elo, horários, idade e preferência de gênero).
-* **Engajamento e Comunicação Pré-Jogo:** Conexão rápida e sem fricção entre o match e o início do jogo, com chat dedicado para combinar a partida.
-* **Go-to-Market Comunitário:** Parcerias com criadores de conteúdo, streamers, comunidades gamers e coletivos femininos para densidade inicial de usuários.
-* **Monetização Sustentável sem Pay-to-Win:** Planos premium (recursos visuais, matches ilimitados, filtros extras) sem comprometer o acesso básico à segurança.
-* **Ciclo Contínuo de Feedback:** Acompanhamento constante da satisfação em partida e eficácia do sistema de reputação.
+### Fase: 1
+**Título:** MVP de Conexão Segura e Perfil Gamer (Descoberta Básica)
+
+**Duração:** 6-8 semanas
+
+**Foco estratégico:** Criar o núcleo de valor: validar se o pareamento por filtros resolve a dor da fila solo, habilitando a descoberta básica de parceiros seguros.
+
+**Principais Entregas**
+*   Cadastro de perfil com seleção de jogos prioritários (Valorant, LoL, CS2).
+*   Definição de status: horários disponíveis, elo atual declarado, faixa etária e gênero.
+*   Algoritmo básico de exibição de perfis (*Player Cards*) e confirmação de *match* mútuo.
+*   Chat de texto integrado pós-match para troca de IDs.
+*   Instrumentação de analytics (cadastros, *swipes*, buscas, conversões de chat).
+
+**Métricas**
+*   Taxa de conclusão de perfil (filtros obrigatórios preenchidos): >= 65%
+*   Conversão em partida (troca de ID no chat em até 24h): >= 40%
+*   Adoção do filtro de gênero: >= 70% entre o público feminino cadastrado.
 
 ---
 
-## Fase 1: MVP de Conexão Segura e Descoberta de Jogadores
+### Fase: 2
+**Título:** Reputação Comunitária e Lobbies (Segurança e Demanda)
 
-* **Duração:** 6 a 8 semanas
-* **Foco Estratégico:** Validar se a proposta de matchmaking por filtros (especialmente de gênero e elo) resolve a dor da fila solo e gera partidas reais.
+**Duração:** 8-10 semanas
 
-### Principais Entregas
-* **Cadastro estruturado** com seleção de jogos competitivos prioritários (Valorant, League of Legends, CS, CoD).
-* **Definição de perfil** com horários disponíveis, elo atual declarado, faixa etária e gênero.
-* **Sistema de filtros essenciais:** jogo, elo, horário e filtro de gênero.
-* **Algoritmo básico** de exibição de perfis e confirmação de match mútuo.
-* **Chat de texto integrado** pós-match para troca de IDs de jogo e agendamento.
-* **Instrumentação de métricas** básicas (cadastros, *swipes*, matches gerados e mensagens trocadas).
+**Foco estratégico:** Estabelecer a camada de segurança psicológica e evoluir o pareamento de duos para times completos, reduzindo o tempo para decidir com quem jogar.
 
-### Métricas de Sucesso
-* **Taxa de conclusão de perfil:** ≥ 65% dos usuários cadastrados completam todos os filtros obrigatórios.
-* **Conversão em partida:** ≥ 40% dos matches trocam ID de jogo no chat em até 24 horas.
-* **Adoção do filtro de gênero:** ≥ 70% de adesão entre o público feminino cadastrado.
+**Principais Entregas**
+*   Mecanismo de avaliação mútua pós-jogo (0 a 5 estrelas e tags de comportamento).
+*   Cálculo e exibição de *score* comunitário público com moderação e bloqueios.
+*   Salas e Lobbies Pré-Jogo para fechamento de equipes (ex: times de 5 jogadores).
+*   Filtros avançados por função/role (ex: suporte, duelista, capitão).
+*   Agenda interna para marcação de sessões de jogo.
 
----
-
-## Fase 2: Sistema de Reputação, Confiança e Segurança (Camada Comunitária)
-
-* **Duração:** 6 a 8 semanas
-* **Foco Estratégico:** Estabelecer a camada de segurança psicológica e social da plataforma. Implementar o ciclo de avaliação pós-partida para afastar o comportamento tóxico e incentivar a criação de uma comunidade saudável e confiável.
-
-### Principais Entregas
-* **Mecanismo de avaliação mútua pós-jogo:** Janela de avaliação aberta após o match para nota de 0 a 5 estrelas e tags de comportamento (ex.: "comunicativo", "paciente", "tóxico").
-* **Campos de review de texto:** Espaço para comentários detalhados sobre a conduta do parceiro de partida.
-* **Cálculo e exibição de score comunitário:** Média pública ponderada de estrelas exibida diretamente no card de perfil do jogador.
-* **Ferramentas de moderação e proteção:** Fluxo de denúncia rápida (*report*) e opção de bloqueio mútuo para impedir novos matches.
-* **Autenticação e verificação de idade:** Validação de faixa etária no onboarding para proteger menores e segmentar os grupos adequadamente.
-* **Loop de feedback:** Questionários curtos sobre percepção de segurança e qualidade das partidas formadas.
-
-### Métricas de Sucesso
-* **Taxa de engajamento em avaliações:** ≥ 60% dos matches que jogaram juntos deixam uma nota no sistema.
-* **Média comunitária de conduta:** ≥ 4.2 estrelas mantidas na média geral da plataforma.
-* **Eficácia de isolamento:** Perfis com nota < 3.0 têm redução automática de visualizações e perdem prioridade no feed.
-* **Taxa de denúncias graves:** ≤ 3% das partidas geram reports manuais de conduta abusiva.
-* **NPS de segurança:** ≥ 45 pontos na pesquisa de percepção de segurança (especialmente para o público feminino).
+**Métricas**
+*   Engajamento em avaliações pós-jogo: >= 60%
+*   Média comunitária de conduta mantida: >= 4.2 estrelas
+*   Taxa de denúncias graves (reports): <= 3% das partidas
+*   Tempo mediano para fechar uma equipe completa (lobby): <= 10 minutos
+*   NPS de segurança e confiabilidade: >= 45
 
 ---
 
-## Fase 3: Formação de Equipes Completas (Lobbies e Squads)
+### Fase: 3
+**Título:** Plano Premium e Cosméticos (Monetização Inicial)
 
-* **Duração:** 8 a 10 semanas
-* **Foco Estratégico:** Evoluir a plataforma do pareamento individual (duos) para a montagem de times completos (3 a 5 jogadores). Reduzir completamente a dependência de jogadores aleatórios nas filas competitivas e otimizar a comunicação tática.
+**Duração:** 10-12 semanas
 
-### Principais Entregas
-* **Salas e Lobbies Pré-Jogo (*Squad Matchmaking*):** Criação de salas públicas ou privadas para fechar equipes completas (ex.: time de 5 para Valorant/LoL).
-* **Filtros por função/role no jogo:** Busca refinada pela vaga que falta no time (ex.: capitão, suporte, duelista, atirador).
-* **Agenda e marcação de partidas:** Ferramenta interna de agendamento de sessões de jogo com notificações *push* e lembretes para os integrantes do time.
-* **Reputação de grupo:** Exibição da média de conduta geral do lobby antes de um novo jogador aceitar o convite.
-* **Analytics avançado de retenção:** Métricas de recorrência de jogo entre as mesmas equipes formadas.
+**Foco estratégico:** Iniciar a monetização da plataforma de forma sustentável, focando em personalização e conveniência, sem aplicar mecânicas de *Pay-to-Win*.
 
-### Métricas de Sucesso
-* **Taxa de adoção de lobbies:** ≥ 35% dos usuários ativos semanais criam ou entram em salas de squad.
-* **Taxa de preenchimento de equipe:** ≥ 70% dos lobbies criados conseguem fechar o número necessário de membros em até 10 minutos.
-* **Retenção D30:** ≥ 35% dos jogadores retornando à plataforma para marcar novas partidas após 30 dias.
-* **Frequência de jogo em equipe:** Média de ≥ 3 sessões de jogo por semana realizadas com parceiros encontrados no app.
-* **Índice de cancelamento:** ≤ 10% de desistências ou ausências após a confirmação de horário no squad.
+**Principais Entregas**
+*   Lançamento da Assinatura Pro (filtros ilimitados, histórico detalhado, destaques de perfil).
+*   Integração com gateway de pagamentos (PIX e Cartão) para o plano premium.
+*   Loja de microtransações cosméticas (bordas de perfil, insígnias, temas visuais).
+*   Solicitação automática de avaliação pós-partida (*prova social*).
+*   Comprovantes e histórico de transações na carteira do usuário.
+
+**Métricas**
+*   Conversão de usuários ativos para o plano pago: >= 5% a 10%
+*   Taxa de aprovação de pagamentos: >= 95%
+*   Taxa de falha no checkout: <= 3%
+*   Receita Recorrente Mensal (MRR) inicial atingindo a meta de sustentabilidade dos servidores.
+
+---
+
+### Fase: 4
+**Título:** Integrações Oficiais, Notificações e Recorrência
+
+**Duração:** 8-10 semanas
+
+**Foco estratégico:** Criar hábito recorrente na comunidade através de automações, alertas inteligentes e integração profunda com as ferramentas que o jogador já usa.
+
+**Principais Entregas**
+*   Integração com APIs Oficiais (Riot Games, Steam) para verificação automatizada e real de elo/nível.
+*   Integração nativa com Discord API para criação direta e automática de salas de voz pós-match.
+*   Notificações segmentadas (push/email) para lembretes de partidas agendadas e convites.
+*   Qualidade de dados: lembretes para atualizar elo e sinalização de informações desatualizadas.
+*   Sistema de recompensas de retenção (ganho de cosméticos ao manter conduta exemplar).
+
+**Métricas**
+*   Opt-in de notificações entre usuários ativos: >= 35%
+*   CTR de push notifications (convites e agenda): >= 6%
+*   Retenção D30 (consumidores retornando para novas partidas): >= 35%
+*   Perfis ativos com conta de jogo verificada via API oficial: >= 70%
+
+---
+
+### Fase: 5
+**Título:** Ligas Amadoras, B2B e Receita Avançada
+
+**Duração:** 12-16 semanas
+
+**Foco estratégico:** Escalar a plataforma criando um ecossistema completo, conectando jogadores a eventos e otimizando a monetização com parceiros B2B.
+
+**Principais Entregas**
+*   Módulo B2B para organizadores de torneios e ligas de eSports amadoras gerenciarem inscrições.
+*   Destaques patrocinados e anúncios segmentados (marcas endêmicas de periféricos) com regras rígidas de qualidade.
+*   Painéis avançados B2B para parceiros visualizarem métricas de engajamento.
+*   Testes A/B contínuos no algoritmo de busca, ranking e pareamento para otimizar conversão.
+*   Ferramentas de divulgação recorrente para comunidades e *streamers* parceiros.
+
+**Métricas**
+*   LTV:CAC estimado: >= 3:1 em 6 meses
+*   Receita de Ads/Patrocínios como % da receita total: 5% a 15%
+*   Receita recorrente mensal (MRR) B2B projetada alcançada.
+*   Expansão de catálogo suportando >= 10 novos títulos de jogos em alta.
