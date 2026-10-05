@@ -221,9 +221,11 @@ A jornada principal do produto foi estruturada do onboarding até a avaliação 
 
 | Fase | Foco Estratégico | Entregáveis Principais |
 | :--- | :--- | :--- |
-| **Fase 1 (Atual)** | **Descoberta & MVP** | CSD, Canvas, BDDs aprovados, telas de cadastro, mural de perfis e autenticação. |
-| **Fase 2** | **Conexão & Automação** | Chat interno em tempo real, integração direta com bot de Discord e sistema de feedback pós-jogo. |
-| **Fase 3** | **Expansão de Plataforma** | Validação automatizada de dados via Riot/Steam API e sistema de formação de equipes completas (5v5). |
+| **Fase 1 (Atual)** | **Descoberta & MVP** | Telas de cadastro, algoritmo de match, *Player Cards*, chat integrado e instrumentação de métricas iniciais. |
+| **Fase 2** | **Segurança & Lobbies** | Sistema de avaliação mútua (*score* público), salas para equipes completas (5v5) e filtros táticos avançados. |
+| **Fase 3** | **Monetização Inicial** | Plano Premium (Assinatura), gateway de pagamentos (PIX/Cartão) e loja de cosméticos para personalização de perfil. |
+| **Fase 4** | **Integrações & Recorrência** | Validação automatizada via Riot/Steam API, automação nativa com Discord API e notificações segmentadas. |
+| **Fase 5** | **Escala B2B & Ecossistema** | Módulo para organizadores de torneios amadores, painéis avançados B2B, anúncios segmentados e parcerias com criadores. |
 
 ---
 
